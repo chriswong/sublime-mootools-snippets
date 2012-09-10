@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[new Request.JSON({
+	url: '$1',//url
+	method: '${2:get}',//method
+	onSuccess: function(${3:responseJSON}, ${4:responseText},){
+		${5://todo;}
+	},
+	onError: function(${6:text}, ${7:error}){
+		${8://todo;}
+	},
+	onFailure: function(${9:xhr}){
+		${10://todo;}
+	}
+})$0]]></content>
+	<tabTrigger>Request.JSON</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Request.JSON</description>
+</snippet>

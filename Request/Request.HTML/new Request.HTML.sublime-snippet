@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[new Request.HTML({
+	url: '$1',//url
+	method: '${2:get}',//method
+	onSuccess: function(${3:responseTree}, ${4:responseElements}, ${5:responseHTML}, ${6:responseJavaScript}){
+		${7://todo;}
+	}$8
+})$0]]></content>
+	<tabTrigger>new Request.HTML</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Request.HTML</description>
+</snippet>
