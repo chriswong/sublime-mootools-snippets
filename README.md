@@ -4,7 +4,7 @@ This is a [Sublime Text][sublime] package which includes a bunch of handy snippe
 
 ### With Package Control ###
 
-If you have the [Package Control][package_control] package installed, you can install Mootools Snippets from inside Sublime Text itself. Open the Command Palette and select "Package Control: Install Package", then search for Mootools Snippets.
+If you have the [Package Control][package_control] package installed, you can install Mootools Snippets from inside Sublime Text itself. Open the Command Palette and select "Package Control: Add Repository", then input this repository url. Reopen the Command Palette and select "Package Control: Install Package", then search for Mootools Snippets.
 
 It's just that simple!
 
