@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[each(function(item, index){
+	${1://todo;}
+})$0]]></content>
+	<tabTrigger>each</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Array</description>
+</snippet>

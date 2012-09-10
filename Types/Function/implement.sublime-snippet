@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[implement({
+	${1:name}: function(${2:arg}){
+		${3://todo;}
+	}
+})$0]]></content>
+	<tabTrigger>implement</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Function</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Fx.Tween('${1:element}', {
+	${2://options}
+})$0]]></content>
+	<tabTrigger>Fx.Tween</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Fx.Tween</description>
+</snippet>

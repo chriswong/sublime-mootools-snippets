@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[Class({
+	${1:Implements|Extends}
+	options: {
+		${2://options}
+	},
+	initialize: function(${3:options}){
+		${4://todo;}
+	}$5
+})$0;]]></content>
+	<tabTrigger>Class</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Class</description>
+</snippet>

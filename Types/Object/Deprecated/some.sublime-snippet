@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[some(function(value, key){
+	${2://todo;}
+})$0]]></content>
+	<tabTrigger>some</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Hash 1.2</description>
+</snippet>

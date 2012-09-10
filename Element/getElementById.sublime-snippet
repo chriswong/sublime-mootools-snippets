@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[getElementById('${1:id}')$0]]></content>
+	<tabTrigger>getElementById</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

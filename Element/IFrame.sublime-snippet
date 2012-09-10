@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IFrame({
+	src: '${1:url}'$2
+})$0]]></content>
+	<tabTrigger>IFrame</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Element</description>
+</snippet>

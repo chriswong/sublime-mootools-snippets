@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Slick.definePseudo('${1:pseudo selectors}', function(value){
+		${2://todo;}
+})$0;]]></content>
+	<tabTrigger>Slick.definePseudo</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Slick</description>
+</snippet>

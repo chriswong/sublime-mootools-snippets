@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rightClick$0]]></content>
+	<tabTrigger>rightClick</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Event</description>
+</snippet>

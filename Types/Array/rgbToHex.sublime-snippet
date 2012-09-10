@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rgbToHex()$0]]></content>
+	<tabTrigger>rgbToHex</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Array</description>
+</snippet>

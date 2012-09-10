@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[Element.Events.${1:eventName} = {
+	base: '${2:base event}',//the base event type
+	condition: function(event){
+		${3://todo;}
+	}
+}$0;]]></content>
+	<tabTrigger>Element.Events</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Events</description>
+</snippet>

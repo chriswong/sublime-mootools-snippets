@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Fx.Morph('${1:element}', {
+	${2://options}
+})$0]]></content>
+	<tabTrigger>Fx.Morph</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Fx.Morph</description>
+</snippet>

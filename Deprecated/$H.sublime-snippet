@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$H(${1:obj})$0]]></content>
+	<tabTrigger>H</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools fn 1.2</description>
+</snippet>

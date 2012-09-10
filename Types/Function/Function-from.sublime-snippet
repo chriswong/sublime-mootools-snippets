@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Function.from(${1:obj})$0]]></content>
+	<tabTrigger>Function.from</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Function</description>
+</snippet>

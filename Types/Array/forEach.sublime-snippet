@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[forEach(function(fn, bind){
+	${1://todo;}
+})$0]]></content>
+	<tabTrigger>forEach</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools</description>
+</snippet>

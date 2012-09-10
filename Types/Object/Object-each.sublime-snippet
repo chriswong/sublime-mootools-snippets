@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Object.each(${1:obj}, function(value, key){
+	${2://todo;}
+})$0]]></content>
+	<tabTrigger>Object.each</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Object</description>
+</snippet>

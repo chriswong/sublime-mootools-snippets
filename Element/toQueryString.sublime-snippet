@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toQueryString()$0]]></content>
+	<tabTrigger>toQueryString</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Element</description>
+</snippet>

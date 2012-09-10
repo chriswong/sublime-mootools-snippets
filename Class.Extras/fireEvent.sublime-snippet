@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fireEvent('${1:type}', ${2:[args...]})$0]]></content>
+	<tabTrigger>fireEvent</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Events Method</description>
+</snippet>

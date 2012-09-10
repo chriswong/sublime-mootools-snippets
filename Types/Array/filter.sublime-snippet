@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[filter(function(item, index){
+	${1://todo;}
+})$0]]></content>
+	<tabTrigger>filter</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Array</description>
+</snippet>

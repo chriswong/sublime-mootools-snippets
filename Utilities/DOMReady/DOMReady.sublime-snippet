@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[window.addEvent('domready', function(){
+	${0:// todo;}
+});]]></content>
+	<tabTrigger>DOMReady</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools</description>
+</snippet>

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[Swiff(${1:path}, {
+	${2:id: '$3',//id
+	container: ,'$4'//container
+	width: $5,//width
+	height: $6,//height
+	params: \{
+		${7://params;}
+	\},
+	vars: \{
+		${8://vars;}
+	\},
+	callBacks: \{
+		${9://todo;}
+	\}}
+})$0]]></content>
+	<tabTrigger>Swiff</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Swiff</description>
+</snippet>

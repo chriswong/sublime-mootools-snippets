@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[Element.Properties.${1:property} = {
+	get: function(){
+		return this.${1:property};
+	},
+	
+	set: function(value){
+		this.${1:property} = value;
+	}
+}$0]]></content>
+	<tabTrigger>Element.Properties</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Element</description>
+</snippet>

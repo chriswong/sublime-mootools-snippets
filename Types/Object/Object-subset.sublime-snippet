@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.subset(${1:obj}, ${2:keys})$0]]></content>
+	<tabTrigger>Object.subset</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Object</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Browser.exec('${1:text}')$0]]></content>
+	<tabTrigger>Browser.exec</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Browser</description>
+</snippet>

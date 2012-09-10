@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[addEvents({
+	${1:type}: function(){
+		${3://todo;}
+	}$4
+})$0]]></content>
+	<tabTrigger>addEvents</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Events Method</description>
+</snippet>

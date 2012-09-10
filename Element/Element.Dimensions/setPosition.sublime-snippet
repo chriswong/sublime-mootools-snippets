@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[setPosition({
+	x: ${1:value},
+	y: ${2:value}
+})$0]]></content>
+	<tabTrigger>setPosition</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Element</description>
+</snippet>

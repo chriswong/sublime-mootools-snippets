@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Function.attempt(function(){
+	${1://todo;}
+})$0]]></content>
+	<tabTrigger>Function.attempt</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Function</description>
+</snippet>
