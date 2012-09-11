@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Slick.defineAttributeGetter(${1:node}, function(){
+		${2://DO SOMETHING COOL}
+	})$0;]]></content>
+	<tabTrigger>Slick.defineAttributeGetter</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Slick</description>
+</snippet>
