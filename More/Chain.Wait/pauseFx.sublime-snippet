@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pauseFx(${1:[duration, effect]})${0://effect-Either "tween" or "morph" defaults to "tween"}]]></content>
+	<tabTrigger>pauseFx</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Element</description>
+</snippet>
