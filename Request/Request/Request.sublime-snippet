@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[Request({
+	url: '$1',//url
+	method: '${2:get}',//method
+	onSuccess: function(${3:responseText}){
+		${4://todo;}
+	}$5
+})$0]]></content>
+	<tabTrigger>Request</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Request</description>
+</snippet>
