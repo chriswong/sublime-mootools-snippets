@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Date.defineFormats({
+	${1:name}:${2:format}
+})$0]]></content>
+	<tabTrigger>Date.defineFormats</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Date</description>
+</snippet>

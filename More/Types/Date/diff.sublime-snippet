@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[diff(${1:otherDate}, ${2:resolution//defaults to 'day'})$0]]></content>
+	<tabTrigger>diff</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Date</description>
+</snippet>

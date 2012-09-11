@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isLeapYear()$0]]></content>
+	<tabTrigger>isLeapYear</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Date</description>
+</snippet>

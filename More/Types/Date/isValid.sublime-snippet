@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isValid(${1:date})$0]]></content>
+	<tabTrigger>isValid</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Date</description>
+</snippet>
