@@ -1,0 +1,13 @@
+{
+    "schema_version": "1.0",
+    "packages": [
+        {
+            "name": "Mootools Snippets",
+            "description": "Mootools API Snippets for Sublime Text",
+            "author": "Chris <wfsr@foxmail.com>",
+            "homepage": "https://github.com/chriswong/sublime-mootools-snippets",
+            "last_modified": "2012-09-11 15:15:22",
+            "platforms": '*'
+        }
+    ]
+}
