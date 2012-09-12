@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toElement(${1:el[, axes]})$0]]></content>
+	<tabTrigger>toElement</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Fx.Scroll</description>
+</snippet>

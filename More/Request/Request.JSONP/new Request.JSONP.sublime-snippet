@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[new Request.JSONP({
+	url: '$1',//url
+	callbackKey : '${2:callback}',//callbackKey
+	onRequest: function(${3:url}){
+		${4://todo;}
+	},
+	onComplete: function(${5:data}){
+		${6://todo;}
+	}
+})$0]]></content>
+	<tabTrigger>new Request.JSONP</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Request.JSONP</description>
+</snippet>
