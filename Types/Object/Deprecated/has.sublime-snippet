@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[has(${1:property})$0]]></content>
-	<tabTrigger>has</tabTrigger>
-	<scope>source.js</scope>
-	<description>Mootools Hash 1.2 </description>
-</snippet>

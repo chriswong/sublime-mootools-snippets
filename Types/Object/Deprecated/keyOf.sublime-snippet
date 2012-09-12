@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[keyOf(${1:key})$0]]></content>
-	<tabTrigger>keyOf</tabTrigger>
-	<scope>source.js</scope>
-	<description>Mootools Hash 1.2 </description>
-</snippet>

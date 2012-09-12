@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[contains(${1:value})$0]]></content>
-	<tabTrigger>contains</tabTrigger>
-	<scope>source.js</scope>
-	<description>Mootools Hash 1.2 </description>
-</snippet>
