@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OverText.showAll()$0]]></content>
+	<tabTrigger>OverText.showAll</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Forms</description>
+</snippet>

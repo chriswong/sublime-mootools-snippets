@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[serialize(${1:index}, function(element, index){
+	${2://todo;}
+})$0]]></content>
+	<tabTrigger>serialize</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Sortables</description>
+</snippet>

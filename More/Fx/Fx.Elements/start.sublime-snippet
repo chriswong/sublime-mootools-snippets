@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[start({
+	'0': {
+		'${1:property}': [${2:from}, ${3:to}]$4
+	}$5
+})$0]]></content>
+	<tabTrigger>start</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Fx.Elements</description>
+</snippet>

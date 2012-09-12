@@ -1,0 +1,14 @@
+[
+ {
+ "id": "Mootools",
+ "caption": "Mootools",
+ "children":
+ [
+ {
+ "caption": "new Class",
+ "id": "Class",
+ "command": "Class"
+ }
+ ]
+ }
+]

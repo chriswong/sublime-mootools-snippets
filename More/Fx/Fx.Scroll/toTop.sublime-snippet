@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toTop()$0]]></content>
+	<tabTrigger>toTop</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Fx.Scroll</description>
+</snippet>

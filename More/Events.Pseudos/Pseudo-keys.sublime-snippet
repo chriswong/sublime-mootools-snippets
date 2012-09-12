@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keys(${1:key})$0]]></content>
+	<tabTrigger>Pseudo:keys</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Events</description>
+</snippet>

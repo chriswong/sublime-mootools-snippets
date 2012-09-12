@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[set({
+	'0': {
+		'${1:property}': ${2:value}
+	}$3
+})$0]]></content>
+	<tabTrigger>set</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Fx.Elements</description>
+</snippet>

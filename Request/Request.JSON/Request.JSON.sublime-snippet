@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[new Request.JSON({
+	<content><![CDATA[Request.JSON({
 	url: '$1',//url
 	method: '${2:get}',//method
-	onSuccess: function(${3:responseJSON}, ${4:responseText},){
+	onSuccess: function(${3:responseJSON}, ${4:responseText}){
 		${5://todo;}
 	},
 	onError: function(${6:text}, ${7:error}){

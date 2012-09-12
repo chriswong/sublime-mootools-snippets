@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[new OverText(${1:input[, options]})$0]]></content>
+	<tabTrigger>new OverText</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Forms</description>
+</snippet>
