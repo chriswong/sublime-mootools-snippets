@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[cleanValues(${1:obj}, function(value){
+	${2://todo;}
+})$0]]></content>
+	<tabTrigger>cleanValues</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Hash</description>
+</snippet>

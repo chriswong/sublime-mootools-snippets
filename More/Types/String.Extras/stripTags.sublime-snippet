@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stripTags(${1:[tag, contents]})$0]]></content>
+	<tabTrigger>stripTags</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More String</description>
+</snippet>

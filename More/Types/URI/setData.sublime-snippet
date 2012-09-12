@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setData(${1:data[, merge, part]})$0]]></content>
+	<tabTrigger>setData</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More URI</description>
+</snippet>

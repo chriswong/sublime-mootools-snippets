@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Object.cleanValues(${1:obj}, function(value){
+	${2://todo;}
+})$0]]></content>
+	<tabTrigger>Object.cleanValues</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Object</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[map(function(value, key){
+	${2://todo;(Mootools 1.2 Core & 1.4 More)}
+})$0]]></content>
+	<tabTrigger>map</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Hash</description>
+</snippet>

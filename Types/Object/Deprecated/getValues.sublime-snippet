@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getValues()$0]]></content>
-	<tabTrigger>getValues</tabTrigger>
-	<scope>source.js</scope>
-	<description>Mootools Hash 1.2 </description>
-</snippet>

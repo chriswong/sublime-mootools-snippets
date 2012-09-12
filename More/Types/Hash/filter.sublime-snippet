@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[filter(function(value, key){
+	${2://todo;(Mootools 1.2 Core & 1.4 More)}
+})$0]]></content>
+	<tabTrigger>filter</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Hash</description>
+</snippet>

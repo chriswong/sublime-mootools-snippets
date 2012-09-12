@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[every(function(value, key){
-	${2://todo;}
-})$0]]></content>
-	<tabTrigger>every</tabTrigger>
-	<scope>source.js</scope>
-	<description>Mootools Hash 1.2</description>
-</snippet>
