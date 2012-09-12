@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[new IframeShim(${1:element[, options]})$0]]></content>
+	<tabTrigger>new IframeShim</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More IframeShim</description>
+</snippet>
