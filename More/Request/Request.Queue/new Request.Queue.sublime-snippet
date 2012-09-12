@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[new Request.Queue({
+	${1:name}: ${2://Request} 
+})$0]]></content>
+	<tabTrigger>new Request.Queue</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Request.Queue</description>
+</snippet>

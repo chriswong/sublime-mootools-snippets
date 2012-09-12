@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[hide(${1:[mode]]})$0]]></content>
+	<content><![CDATA[hide(${1:[mode]})$0]]></content>
 	<tabTrigger>hide</tabTrigger>
 	<scope>source.js</scope>
 	<description>Mootools More Fx</description>

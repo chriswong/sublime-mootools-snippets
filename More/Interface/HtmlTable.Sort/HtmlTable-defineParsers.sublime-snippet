@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[HtmlTable.defineParsers({
+	${1:name}: {
+		match: ${2:match},
+		convert: function(){
+			${3://todo;}
+		},
+		number: ${4:number}
+	}
+})$0]]></content>
+	<tabTrigger>HtmlTable.defineParsers</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More HtmlTable</description>
+</snippet>
