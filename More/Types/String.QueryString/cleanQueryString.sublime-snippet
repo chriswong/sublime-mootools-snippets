@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[cleanQueryString(function(set){
+	${1://todo;}
+})$0]]></content>
+	<tabTrigger>cleanQueryString</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More String</description>
+</snippet>

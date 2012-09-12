@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[erase(${1:key})${0://Mootools 1.2 Core & 1.4 More}]]></content>
+	<tabTrigger>erase</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools Hash</description>
+</snippet>

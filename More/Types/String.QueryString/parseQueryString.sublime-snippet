@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[parseQueryString(${1:decodeKeys}, ${2:decodeValues})$0]]></content>
+	<tabTrigger>parseQueryString</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More String</description>
+</snippet>
