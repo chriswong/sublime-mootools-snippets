@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[addShortcuts({
+	'${1:name}', {
+		'keys': '${2:keys}',
+		'description': '${3:description}',
+		'hanlder': ${4:fn}
+	}$5
+})$0]]></content>
+	<tabTrigger>addShortcuts</tabTrigger>
+	<scope>source.js</scope>
+	<description>Moo More addShortcuts</description>
+</snippet>

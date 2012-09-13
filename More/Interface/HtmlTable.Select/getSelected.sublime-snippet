@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSelected()$0]]></content>
+	<tabTrigger>getSelected</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More HtmlTable</description>
+</snippet>
