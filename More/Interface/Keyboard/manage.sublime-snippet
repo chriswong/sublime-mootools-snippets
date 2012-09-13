@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[manage(${1:childKeyboard})$0]]></content>
+	<tabTrigger>manage</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Keyboard</description>
+</snippet>

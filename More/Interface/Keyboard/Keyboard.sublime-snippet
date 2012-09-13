@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[Keyboard({
+	defaultEventType: '${1:key}',
+	events: ${2://events}
+})]]></content>
+	<tabTrigger>Keyboard</tabTrigger>
+	<scope>source.js</scope>
+	<description>Mootools More Keyboard</description>
+</snippet>
