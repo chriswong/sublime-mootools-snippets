@@ -2,5 +2,5 @@
 	<content><![CDATA[append(${1:array})$0]]></content>
 	<tabTrigger>append</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Array</description>
+	<description>Moo.append(array) Array</description>
 </snippet>

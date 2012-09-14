@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[injectTop('${1:el}')$0]]></content>
+	<content><![CDATA[injectTop('${1:el}')${0://Mootools 1.2}]]></content>
 	<tabTrigger>injectTop</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element 1.1</description>
+	<description>Moo.injectTop(el) Element</description>
 </snippet>

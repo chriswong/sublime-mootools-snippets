@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>each</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Array</description>
+	<description>Moo.Array</description>
 </snippet>

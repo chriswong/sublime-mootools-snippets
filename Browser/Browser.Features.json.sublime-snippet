@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Features.json$0]]></content>
 	<tabTrigger>Browser.Features.json</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Browser</description>
+	<description>Moo.Browser.Features.json</description>
 </snippet>

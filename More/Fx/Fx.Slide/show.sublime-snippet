@@ -2,5 +2,5 @@
 	<content><![CDATA[show(${1:[mode]]})$0]]></content>
 	<tabTrigger>show</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx</description>
+	<description>Moo.More Fx</description>
 </snippet>

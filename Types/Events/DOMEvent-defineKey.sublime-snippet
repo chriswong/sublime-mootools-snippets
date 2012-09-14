@@ -2,5 +2,5 @@
 	<content><![CDATA[DOMEvent.defineKey(${1:keyCode}, '${2:keyName}')$0]]></content>
 	<tabTrigger>DOMEvent.defineKey</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Event</description>
+	<description>Moo.Event</description>
 </snippet>

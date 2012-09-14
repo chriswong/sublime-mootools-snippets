@@ -2,5 +2,5 @@
 	<content><![CDATA[addLists(${1:list1[, ...]})$0]]></content>
 	<tabTrigger>addLists</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Sortables</description>
+	<description>Moo.More Sortables</description>
 </snippet>

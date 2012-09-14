@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx.Transitions.Elastic$0]]></content>
 	<tabTrigger>Fx.Transitions.Elastic</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx.Transitions</description>
+	<description>Moo.Fx.Transitions.Elastic</description>
 </snippet>

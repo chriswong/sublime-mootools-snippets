@@ -2,5 +2,5 @@
 	<content><![CDATA[send()${0://form}]]></content>
 	<tabTrigger>send</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.send() Element</description>
 </snippet>

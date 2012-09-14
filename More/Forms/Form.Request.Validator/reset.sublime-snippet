@@ -2,5 +2,5 @@
 	<content><![CDATA[reset()$0]]></content>
 	<tabTrigger>reset</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Forms</description>
+	<description>Moo.More Forms</description>
 </snippet>

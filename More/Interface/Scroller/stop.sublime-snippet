@@ -2,5 +2,5 @@
 	<content><![CDATA[stop()$0]]></content>
 	<tabTrigger>stop</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Scroller</description>
+	<description>Moo.More Scroller</description>
 </snippet>

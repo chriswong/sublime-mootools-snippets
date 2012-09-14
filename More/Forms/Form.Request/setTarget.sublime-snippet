@@ -2,5 +2,5 @@
 	<content><![CDATA[setTarget(${1:newTarget})$0]]></content>
 	<tabTrigger>setTarget</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Forms</description>
+	<description>Moo.More Forms</description>
 </snippet>

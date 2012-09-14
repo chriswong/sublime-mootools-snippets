@@ -2,5 +2,5 @@
 	<content><![CDATA[new Fx.Accordion (${1:togglers}, ${2:elements[, options]})$0]]></content>
 	<tabTrigger>new Fx.Accordion </tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx</description>
+	<description>Moo.More Fx</description>
 </snippet>

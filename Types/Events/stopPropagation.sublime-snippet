@@ -2,5 +2,5 @@
 	<content><![CDATA[stopPropagation()$0]]></content>
 	<tabTrigger>stopPropagation</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Event</description>
+	<description>Moo.Event</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[getLast()$0]]></content>
 	<tabTrigger>getLast</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Array</description>
+	<description>Moo.Array</description>
 </snippet>

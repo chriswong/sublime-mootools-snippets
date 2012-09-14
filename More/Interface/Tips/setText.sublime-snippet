@@ -2,5 +2,5 @@
 	<content><![CDATA[setText(${1:text})$0]]></content>
 	<tabTrigger>setText</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Tips</description>
+	<description>Moo.More Tips</description>
 </snippet>

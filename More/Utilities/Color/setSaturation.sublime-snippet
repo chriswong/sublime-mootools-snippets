@@ -2,5 +2,5 @@
 	<content><![CDATA[setSaturation(${1:percent})$0]]></content>
 	<tabTrigger>setSaturation</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Color</description>
+	<description>Moo.More Color</description>
 </snippet>

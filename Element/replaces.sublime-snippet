@@ -2,5 +2,5 @@
 	<content><![CDATA[replaces(${1:el})$0]]></content>
 	<tabTrigger>replaces</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Mooreplaces(el) Element</description>
 </snippet>

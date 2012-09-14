@@ -2,5 +2,5 @@
 	<content><![CDATA[show(${1:displayString})$0]]></content>
 	<tabTrigger>show</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Element</description>
+	<description>Moo.More Element</description>
 </snippet>

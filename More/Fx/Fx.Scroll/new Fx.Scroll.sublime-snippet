@@ -2,5 +2,5 @@
 	<content><![CDATA[new Fx.Scroll(${1:element[, options]})$0]]></content>
 	<tabTrigger>new Fx.Scroll</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx</description>
+	<description>Moo.More Fx</description>
 </snippet>

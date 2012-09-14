@@ -2,5 +2,5 @@
 	<content><![CDATA[pad(${1:length}, ${2:string}, ${3:direction})$0]]></content>
 	<tabTrigger>pad</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More String</description>
+	<description>Moo.More String</description>
 </snippet>

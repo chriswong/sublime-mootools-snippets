@@ -2,5 +2,5 @@
 	<content><![CDATA[\$RGB(${1:r}, ${2:g}, ${3:b})$0]]></content>
 	<tabTrigger>RGB</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Color</description>
+	<description>Moo.More Color</description>
 </snippet>

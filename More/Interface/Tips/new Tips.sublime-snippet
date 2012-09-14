@@ -2,5 +2,5 @@
 	<content><![CDATA[new Tips(${1:elements[, options]})$0]]></content>
 	<tabTrigger>new Tips</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Tips</description>
+	<description>Moo.More Tips</description>
 </snippet>

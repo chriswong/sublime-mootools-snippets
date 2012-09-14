@@ -2,5 +2,5 @@
 	<content><![CDATA[String.uniqueID()$0]]></content>
 	<tabTrigger>String.uniqueID</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools String</description>
+	<description>Moo.String</description>
 </snippet>

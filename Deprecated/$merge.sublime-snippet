@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[\$merge(${1:arguments})$0]]></content>
-	<tabTrigger>merge</tabTrigger>
+	<content><![CDATA[\$merge(${1:args})${0://Mootools 1.2}]]></content>
+	<tabTrigger>$merge</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools fn 1.2</description>
+	<description>Moo.$merge(args) 1.2</description>
 </snippet>

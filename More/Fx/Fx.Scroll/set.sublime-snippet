@@ -2,5 +2,5 @@
 	<content><![CDATA[set(${1:x}, ${2:y})$0]]></content>
 	<tabTrigger>set</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx.Scroll</description>
+	<description>Moo.More Fx.Scroll</description>
 </snippet>

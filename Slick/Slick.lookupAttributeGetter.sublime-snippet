@@ -2,5 +2,5 @@
 	<content><![CDATA[Slick.lookupAttributeGetter(${1:name})$0;]]></content>
 	<tabTrigger>Slick.lookupAttributeGetter</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Slick</description>
+	<description>Moo.Slick.lookupAttributeGetter(name)</description>
 </snippet>

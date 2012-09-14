@@ -2,5 +2,5 @@
 	<content><![CDATA[Object.contains(${1:obj}, ${2:value})$0]]></content>
 	<tabTrigger>Object.contains</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Object</description>
+	<description>Moo.Object</description>
 </snippet>

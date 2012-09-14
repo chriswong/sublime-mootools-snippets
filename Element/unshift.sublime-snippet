@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[unshift(${1:element})$0]]></content>
+	<content><![CDATA[unshift(${1:el})$0]]></content>
 	<tabTrigger>unshift</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Elements</description>
+	<description>Moo.unshift(el) Elements</description>
 </snippet>

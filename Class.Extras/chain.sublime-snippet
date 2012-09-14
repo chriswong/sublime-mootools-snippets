@@ -2,5 +2,5 @@
 	<content><![CDATA[chain(${1:fn..})$0]]></content>
 	<tabTrigger>chain</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Chain Method</description>
+	<description>Moo.chain(fn) Chain</description>
 </snippet>

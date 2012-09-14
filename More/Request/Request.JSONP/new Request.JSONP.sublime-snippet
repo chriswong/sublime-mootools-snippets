@@ -11,5 +11,5 @@
 })$0]]></content>
 	<tabTrigger>new Request.JSONP</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Request.JSONP</description>
+	<description>Moo.More Request.JSONP</description>
 </snippet>

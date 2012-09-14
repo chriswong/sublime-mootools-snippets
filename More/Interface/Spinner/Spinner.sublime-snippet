@@ -2,5 +2,5 @@
 	<content><![CDATA[Spinner(${1:target[, options]})$0]]></content>
 	<tabTrigger>Spinner</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Spinner</description>
+	<description>Moo.More Spinner</description>
 </snippet>

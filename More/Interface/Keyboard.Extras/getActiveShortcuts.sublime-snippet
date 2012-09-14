@@ -2,5 +2,5 @@
 	<content><![CDATA[getActiveShortcuts()$0]]></content>
 	<tabTrigger>getActiveShortcuts</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Keyboard</description>
+	<description>Moo.More Keyboard</description>
 </snippet>

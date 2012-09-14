@@ -2,5 +2,5 @@
 	<content><![CDATA[Slick.getAttribute(${1:node}, '${2:name}')$0;]]></content>
 	<tabTrigger>Slick.getAttribute</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Slick</description>
+	<description>Moo.Slick.getAttribute(node, name)</description>
 </snippet>

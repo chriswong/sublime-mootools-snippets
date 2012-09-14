@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx.Transitions.Sine$0]]></content>
 	<tabTrigger>Fx.Transitions.Sine</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx.Transitions</description>
+	<description>Moo.Fx.Transitions.Sine</description>
 </snippet>

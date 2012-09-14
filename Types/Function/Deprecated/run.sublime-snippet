@@ -2,5 +2,5 @@
 	<content><![CDATA[run(${1:args}, ${2:bind})$0]]></content>
 	<tabTrigger>run</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Function 1.2 </description>
+	<description>Moo.Function 1.2 </description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[decrement(${1:interval//defaults to 'day'}, ${2:times//defaults to 1})$0]]></content>
 	<tabTrigger>decrement</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Date</description>
+	<description>Moo.More Date</description>
 </snippet>

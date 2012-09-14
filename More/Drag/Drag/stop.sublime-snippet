@@ -2,5 +2,5 @@
 	<content><![CDATA[stop(${1:[event]})$0]]></content>
 	<tabTrigger>stop</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Drag</description>
+	<description>Moo.More Drag</description>
 </snippet>

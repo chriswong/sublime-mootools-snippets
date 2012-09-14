@@ -2,5 +2,5 @@
 	<content><![CDATA[getWeek()$0]]></content>
 	<tabTrigger>getWeek</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Date</description>
+	<description>Moo.More Date</description>
 </snippet>

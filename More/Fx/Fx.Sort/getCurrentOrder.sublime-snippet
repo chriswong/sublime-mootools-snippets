@@ -2,5 +2,5 @@
 	<content><![CDATA[getCurrentOrder()$0]]></content>
 	<tabTrigger>getCurrentOrder</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx</description>
+	<description>Moo.More Fx</description>
 </snippet>

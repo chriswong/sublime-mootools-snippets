@@ -2,5 +2,5 @@
 	<content><![CDATA[cancel()$0]]></content>
 	<tabTrigger>cancel</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx</description>
+	<description>Moo.cancel() Fx</description>
 </snippet>

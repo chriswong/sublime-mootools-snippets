@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[combine(${1:properties})${0://Mootools 1.2 Core & 1.4 More}]]></content>
+	<content><![CDATA[combine(${1:properties})${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>combine</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Hash</description>
+	<description>Moo.Hash</description>
 </snippet>

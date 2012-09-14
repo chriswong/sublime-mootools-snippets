@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[setOptions(${1:options})$0]]></content>
+	<content><![CDATA[setOptions(${1:[options]})$0]]></content>
 	<tabTrigger>setOptions</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Options Method</description>
+	<description>Moo.setOptions(options) Options</description>
 </snippet>

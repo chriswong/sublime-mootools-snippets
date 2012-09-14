@@ -2,5 +2,5 @@
 	<content><![CDATA[getOffsetParent()$0]]></content>
 	<tabTrigger>getOffsetParent</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.getOffsetParent() Element</description>
 </snippet>

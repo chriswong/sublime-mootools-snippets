@@ -2,5 +2,5 @@
 	<content><![CDATA[new Mask(${1:target[, options]})$0]]></content>
 	<tabTrigger>new Mask</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Mask</description>
+	<description>Moo.More Mask</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[Locale.list()$0]]></content>
 	<tabTrigger>Locale.list</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Locale</description>
+	<description>Moo.More Locale</description>
 </snippet>

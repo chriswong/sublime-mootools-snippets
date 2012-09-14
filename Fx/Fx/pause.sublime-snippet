@@ -2,5 +2,5 @@
 	<content><![CDATA[pause()$0]]></content>
 	<tabTrigger>pause</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx</description>
+	<description>Moo.pause() Fx</description>
 </snippet>

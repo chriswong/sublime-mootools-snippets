@@ -2,5 +2,5 @@
 	<content><![CDATA[new HtmlTable(${1:[table, options]})$0]]></content>
 	<tabTrigger>new HtmlTable</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More HtmlTable</description>
+	<description>Moo.More HtmlTable</description>
 </snippet>

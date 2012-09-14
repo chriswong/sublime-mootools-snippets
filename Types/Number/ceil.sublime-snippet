@@ -2,5 +2,5 @@
 	<content><![CDATA[ceil()$0]]></content>
 	<tabTrigger>ceil</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Number</description>
+	<description>Moo.Number</description>
 </snippet>

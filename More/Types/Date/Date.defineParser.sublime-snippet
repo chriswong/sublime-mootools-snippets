@@ -2,5 +2,5 @@
 	<content><![CDATA[Date.defineParser(${1:pattern})$0]]></content>
 	<tabTrigger>Date.defineParser</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Date</description>
+	<description>Moo.More Date</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[once$0]]></content>
 	<tabTrigger>Pseudo:once</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Events</description>
+	<description>Moo.More Events</description>
 </snippet>

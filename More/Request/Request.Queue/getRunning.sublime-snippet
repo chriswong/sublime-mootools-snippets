@@ -2,5 +2,5 @@
 	<content><![CDATA[getRunning()$0]]></content>
 	<tabTrigger>getRunning</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Request.Queue</description>
+	<description>Moo.More Request.Queue</description>
 </snippet>

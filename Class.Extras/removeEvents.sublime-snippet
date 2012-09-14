@@ -2,5 +2,5 @@
 	<content><![CDATA[removeEvents('${1:[events]}'$2)$0]]></content>
 	<tabTrigger>removeEvents</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Events Method</description>
+	<description>Moo.removeEvents(events) Events</description>
 </snippet>

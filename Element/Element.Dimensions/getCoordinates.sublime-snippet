@@ -2,5 +2,5 @@
 	<content><![CDATA[getCoordinates()$0]]></content>
 	<tabTrigger>getCoordinates</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.getCoordinates() Element</description>
 </snippet>

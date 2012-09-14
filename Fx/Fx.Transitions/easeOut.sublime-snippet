@@ -2,5 +2,5 @@
 	<content><![CDATA[easeOut$0]]></content>
 	<tabTrigger>easeOut</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx.Transitions</description>
+	<description>Moo.easeOut Fx.Transitions</description>
 </snippet>

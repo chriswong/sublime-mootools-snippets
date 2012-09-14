@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[\$A(${1:item})$0]]></content>
+	<content><![CDATA[\$A(${1:item})${0://Mootools 1.2}]]></content>
 	<tabTrigger>A</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools fn 1.2</description>
+	<description>Moo.$A() 1.2</description>
 </snippet>

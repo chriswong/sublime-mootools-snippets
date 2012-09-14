@@ -2,5 +2,5 @@
 	<content><![CDATA[new Form.Validator(${1:form[, options]})$0]]></content>
 	<tabTrigger>new Form.Validator</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Forms</description>
+	<description>Moo.More Forms</description>
 </snippet>

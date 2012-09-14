@@ -2,5 +2,5 @@
 	<content><![CDATA[preventDefault()$0]]></content>
 	<tabTrigger>preventDefault</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Event</description>
+	<description>Moo.Event</description>
 </snippet>

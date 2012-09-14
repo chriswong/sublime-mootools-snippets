@@ -2,5 +2,5 @@
 	<content><![CDATA[getFromPath(${1:obj}, ${2:path})$0]]></content>
 	<tabTrigger>getFromPath</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Hash</description>
+	<description>Moo.More Hash</description>
 </snippet>

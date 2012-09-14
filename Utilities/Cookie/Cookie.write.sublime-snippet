@@ -2,5 +2,5 @@
 	<content><![CDATA[Cookie.write(${1:key}, ${2:value[, options]})$0]]></content>
 	<tabTrigger>Cookie.write</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Cookie</description>
+	<description>Moo.Cookie</description>
 </snippet>

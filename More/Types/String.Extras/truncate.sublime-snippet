@@ -2,5 +2,5 @@
 	<content><![CDATA[truncate(${1:max}, ${2:trail}, ${3:atChar})$0]]></content>
 	<tabTrigger>truncate</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More String</description>
+	<description>Moo.More String</description>
 </snippet>

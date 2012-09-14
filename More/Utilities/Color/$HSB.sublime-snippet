@@ -2,5 +2,5 @@
 	<content><![CDATA[\$HSB(${1:h}, ${2:s}, ${3:b})$0]]></content>
 	<tabTrigger>HSB</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Color</description>
+	<description>Moo.More Color</description>
 </snippet>

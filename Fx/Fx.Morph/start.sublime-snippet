@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>start</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx.Morph</description>
+	<description>Moo.start(props) Fx</description>
 </snippet>
