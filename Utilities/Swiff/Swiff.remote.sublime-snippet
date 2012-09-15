@@ -2,5 +2,5 @@
 	<content><![CDATA[Swiff.remote(${1:obj}, ${2:args..})$0]]></content>
 	<tabTrigger>Swiff.remote</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Swiff</description>
+	<description>Moo.Swiff</description>
 </snippet>

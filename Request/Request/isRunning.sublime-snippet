@@ -2,5 +2,5 @@
 	<content><![CDATA[isRunning()$0]]></content>
 	<tabTrigger>isRunning</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Request</description>
+	<description>Moo.isRunning() Request</description>
 </snippet>

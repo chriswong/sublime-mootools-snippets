@@ -2,5 +2,5 @@
 	<content><![CDATA[client.y$0]]></content>
 	<tabTrigger>client.y</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Event</description>
+	<description>Moo.Event</description>
 </snippet>

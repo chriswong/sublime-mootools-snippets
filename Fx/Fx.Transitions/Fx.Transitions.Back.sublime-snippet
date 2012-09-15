@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx.Transitions.Back$0]]></content>
 	<tabTrigger>Fx.Transitions.Back</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx.Transitions</description>
+	<description>Moo.Fx.Transitions.Back</description>
 </snippet>

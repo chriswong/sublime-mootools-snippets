@@ -2,5 +2,5 @@
 	<content><![CDATA[getHeader(${1:name})$0]]></content>
 	<tabTrigger>getHeader</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Request</description>
+	<description>Moo.getHeader(name) Request</description>
 </snippet>

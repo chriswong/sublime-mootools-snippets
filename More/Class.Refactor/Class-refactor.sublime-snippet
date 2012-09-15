@@ -2,5 +2,5 @@
 	<content><![CDATA[Class.refactor(${1:OriginalClass}, ${2:newProperties})$0]]></content>
 	<tabTrigger>Class.refactor</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Class</description>
+	<description>Moo.More Class</description>
 </snippet>

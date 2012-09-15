@@ -2,5 +2,5 @@
 	<content><![CDATA[getSelectedText()$0]]></content>
 	<tabTrigger>getSelectedText</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Element</description>
+	<description>Moo.More Element</description>
 </snippet>

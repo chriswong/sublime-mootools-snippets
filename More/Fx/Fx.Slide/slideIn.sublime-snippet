@@ -2,5 +2,5 @@
 	<content><![CDATA[slideIn(${1:[mode]]})$0]]></content>
 	<tabTrigger>slideIn</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx</description>
+	<description>Moo.More Fx</description>
 </snippet>

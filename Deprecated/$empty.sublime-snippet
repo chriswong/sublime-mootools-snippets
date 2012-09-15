@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[\$empty(${1:elment})$0]]></content>
-	<tabTrigger>empty</tabTrigger>
+	<content><![CDATA[\$empty(${1:elment})${0://Mootools 1.2}]]></content>
+	<tabTrigger>$empty</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools fn</description>
+	<description>Moo.$empty(elment) 1.2</description>
 </snippet>

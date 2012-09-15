@@ -2,5 +2,5 @@
 	<content><![CDATA[average()$0]]></content>
 	<tabTrigger>average</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Array</description>
+	<description>Moo.More Array</description>
 </snippet>

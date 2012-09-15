@@ -2,5 +2,5 @@
 	<content><![CDATA[Group(${1:class[, arrays[, class2[, ... ]]]})$0]]></content>
 	<tabTrigger>Group</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Group</description>
+	<description>Moo.More Group</description>
 </snippet>

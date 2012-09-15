@@ -2,5 +2,5 @@
 	<content><![CDATA[Number.from(${1:arg})$0]]></content>
 	<tabTrigger>Number.from</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Number</description>
+	<description>Moo.Number</description>
 </snippet>

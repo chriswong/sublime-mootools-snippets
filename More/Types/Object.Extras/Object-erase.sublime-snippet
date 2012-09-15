@@ -2,5 +2,5 @@
 	<content><![CDATA[Object.erase(${1:obj}, ${2:key})$0]]></content>
 	<tabTrigger>Object.erase</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Object</description>
+	<description>Moo.More Object</description>
 </snippet>

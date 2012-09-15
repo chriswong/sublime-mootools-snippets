@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx.Transitions.Quart$0]]></content>
 	<tabTrigger>Fx.Transitions.Quart</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx.Transitions</description>
+	<description>Moo.Fx.Transitions.Quart</description>
 </snippet>

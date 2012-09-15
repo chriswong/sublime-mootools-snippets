@@ -2,5 +2,5 @@
 	<content><![CDATA[JSON.decode(${1:obj[, secure]})$0]]></content>
 	<tabTrigger>JSON.decode</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools JSON</description>
+	<description>Moo.JSON</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[pause(${1:pausetime//Default time is 250 ms})$0]]></content>
 	<tabTrigger>Pseudo:pause</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Events</description>
+	<description>Moo.More Events</description>
 </snippet>

@@ -10,5 +10,5 @@
 }$0]]></content>
 	<tabTrigger>Element.Properties</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.Element.Properties</description>
 </snippet>

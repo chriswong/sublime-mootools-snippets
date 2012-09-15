@@ -2,5 +2,5 @@
 	<content><![CDATA[hyphenate()$0]]></content>
 	<tabTrigger>hyphenate</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools String</description>
+	<description>Moo.String</description>
 </snippet>

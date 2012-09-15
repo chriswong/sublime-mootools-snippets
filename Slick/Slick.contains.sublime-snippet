@@ -2,5 +2,5 @@
 	<content><![CDATA[Slick.contains(${1:container}, ${2:node})$0;]]></content>
 	<tabTrigger>Slick.contains</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Slick</description>
+	<description>Moo.Slick.contains(container, node)</description>
 </snippet>

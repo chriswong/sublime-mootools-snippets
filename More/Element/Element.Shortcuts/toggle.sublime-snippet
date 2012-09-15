@@ -2,5 +2,5 @@
 	<content><![CDATA[toggle()$0]]></content>
 	<tabTrigger>toggle</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Element</description>
+	<description>Moo.More Element</description>
 </snippet>

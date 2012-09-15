@@ -2,5 +2,5 @@
 	<content><![CDATA[drop(${1:childKeyboard})$0]]></content>
 	<tabTrigger>drop</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Keyboard</description>
+	<description>Moo.More Keyboard</description>
 </snippet>

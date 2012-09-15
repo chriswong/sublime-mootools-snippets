@@ -2,5 +2,5 @@
 	<content><![CDATA[setHue(${1:value})$0]]></content>
 	<tabTrigger>setHue</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Color</description>
+	<description>Moo.More Color</description>
 </snippet>

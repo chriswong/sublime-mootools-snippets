@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Browser.Engine.webkit${0://Mootools Browser 1.2}]]></content>
+	<content><![CDATA[Browser.Engine.webkit${0://Mootols Browser 1.2}]]></content>
 	<tabTrigger>Browser.Engine.webkit</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Browser 1.2</description>
+	<description>Moo.Engine.webkit</description>
 </snippet>

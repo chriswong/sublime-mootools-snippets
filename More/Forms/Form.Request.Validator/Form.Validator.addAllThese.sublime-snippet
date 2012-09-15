@@ -2,5 +2,5 @@
 	<content><![CDATA[Form.Validator.addAllThese(${1:validators})$0]]></content>
 	<tabTrigger>Form.Validator.addAllThese</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Forms</description>
+	<description>Moo.More Forms</description>
 </snippet>

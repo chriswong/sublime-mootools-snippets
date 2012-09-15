@@ -2,5 +2,5 @@
 	<content><![CDATA[empty()$0]]></content>
 	<tabTrigger>empty</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element|Elements</description>
+	<description>Moo.empty() Element|Elements</description>
 </snippet>

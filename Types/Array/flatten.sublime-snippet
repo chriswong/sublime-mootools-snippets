@@ -2,5 +2,5 @@
 	<content><![CDATA[flatten()$0]]></content>
 	<tabTrigger>flatten</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Array</description>
+	<description>Moo.Array</description>
 </snippet>

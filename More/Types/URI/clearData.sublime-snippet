@@ -2,5 +2,5 @@
 	<content><![CDATA[clearData()$0]]></content>
 	<tabTrigger>clearData</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More URI</description>
+	<description>Moo.More URI</description>
 </snippet>

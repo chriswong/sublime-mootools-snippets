@@ -2,5 +2,5 @@
 	<content><![CDATA[hexToRgb()$0]]></content>
 	<tabTrigger>hexToRgb</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Array</description>
+	<description>Moo.Array</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[contains('${1:el}')$0]]></content>
 	<tabTrigger>contains</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.contains(el) Element</description>
 </snippet>

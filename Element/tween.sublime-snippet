@@ -2,5 +2,5 @@
 	<content><![CDATA[tween(${1:property}, ${2:[from,] to})$0]]></content>
 	<tabTrigger>tween</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.tween(prop, [from,] to) Element</description>
 </snippet>

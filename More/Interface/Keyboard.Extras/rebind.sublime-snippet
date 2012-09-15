@@ -2,5 +2,5 @@
 	<content><![CDATA[rebind(${1:keys}, ${2:shortcutObjs})$0]]></content>
 	<tabTrigger>rebind</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Keyboard</description>
+	<description>Moo.More Keyboard</description>
 </snippet>

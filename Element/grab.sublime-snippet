@@ -2,5 +2,5 @@
 	<content><![CDATA[grab(${1:el, where})$0]]></content>
 	<tabTrigger>grab</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.grab(el, where) Element</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[implement(${1:name}, ${2:method})$0]]></content>
 	<tabTrigger>implement</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Core</description>
+	<description>Moo.implement()Core</description>
 </snippet>

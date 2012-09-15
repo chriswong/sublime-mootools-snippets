@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[\$defined(${1:obj})$0]]></content>
-	<tabTrigger>defined</tabTrigger>
+	<content><![CDATA[\$defined(${1:obj})${0://Mootools 1.2}]]></content>
+	<tabTrigger>$defined</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools fn 1.2</description>
+	<description>Moo.$defined(obj) 1.2</description>
 </snippet>

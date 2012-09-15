@@ -2,5 +2,5 @@
 	<content><![CDATA[getAdvice(${1:field}, ${2:validatorName})$0]]></content>
 	<tabTrigger>getAdvice</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Forms</description>
+	<description>Moo.More Forms</description>
 </snippet>

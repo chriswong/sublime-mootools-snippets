@@ -2,5 +2,5 @@
 	<content><![CDATA[erase(${1:item})$0]]></content>
 	<tabTrigger>erase</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Array</description>
+	<description>Moo.Array</description>
 </snippet>

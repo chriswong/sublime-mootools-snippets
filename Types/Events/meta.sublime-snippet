@@ -2,5 +2,5 @@
 	<content><![CDATA[meta$0]]></content>
 	<tabTrigger>meta</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Event</description>
+	<description>Moo.Event</description>
 </snippet>

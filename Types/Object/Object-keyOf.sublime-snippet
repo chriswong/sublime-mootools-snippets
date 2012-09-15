@@ -2,5 +2,5 @@
 	<content><![CDATA[Object.keyOf(${1:obj}, ${2:item})$0;]]></content>
 	<tabTrigger>Object.keyOf</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Object</description>
+	<description>Moo.Object</description>
 </snippet>

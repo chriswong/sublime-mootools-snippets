@@ -2,5 +2,5 @@
 	<content><![CDATA[swap(${1:element_1}, ${2:element_2})$0]]></content>
 	<tabTrigger>swap</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx</description>
+	<description>Moo.More Fx</description>
 </snippet>

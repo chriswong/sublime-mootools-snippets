@@ -2,5 +2,5 @@
 	<content><![CDATA[toElementCenter(${1:el[, axes]})$0]]></content>
 	<tabTrigger>toElementCenter</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx.Scroll</description>
+	<description>Moo.More Fx.Scroll</description>
 </snippet>

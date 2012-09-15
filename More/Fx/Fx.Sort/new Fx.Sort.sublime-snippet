@@ -2,5 +2,5 @@
 	<content><![CDATA[new Fx.Sort(${1:element[, options]})$0]]></content>
 	<tabTrigger>new Fx.Sort</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Fx</description>
+	<description>Moo.More Fx</description>
 </snippet>

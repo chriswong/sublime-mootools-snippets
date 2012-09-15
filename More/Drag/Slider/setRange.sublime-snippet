@@ -2,5 +2,5 @@
 	<content><![CDATA[setRange(${1:range})$0]]></content>
 	<tabTrigger>setRange</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Drag</description>
+	<description>Moo.More Drag</description>
 </snippet>

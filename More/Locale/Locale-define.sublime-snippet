@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Locale.define(${1:name}, ${2:set}, {
+	${3:key}: ${4:value}
+})$0]]></content>
+	<tabTrigger>Locale.define</tabTrigger>
+	<scope>source.js</scope>
+	<description>Moo.More Locale</description>
+</snippet>

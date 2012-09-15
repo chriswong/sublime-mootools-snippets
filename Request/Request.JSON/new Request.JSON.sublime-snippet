@@ -14,5 +14,5 @@
 })$0]]></content>
 	<tabTrigger>new Request.JSON</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Request.JSON</description>
+	<description>Moo.Request.JSON([options])</description>
 </snippet>

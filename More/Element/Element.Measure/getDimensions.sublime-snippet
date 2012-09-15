@@ -2,5 +2,5 @@
 	<content><![CDATA[getDimensions(${1:[options]})$0]]></content>
 	<tabTrigger>getDimensions</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Element</description>
+	<description>Moo.More Element</description>
 </snippet>

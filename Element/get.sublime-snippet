@@ -2,5 +2,5 @@
 	<content><![CDATA[get('${1:property}')$0]]></content>
 	<tabTrigger>get</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Element</description>
+	<description>Moo.get(prop) Element</description>
 </snippet>

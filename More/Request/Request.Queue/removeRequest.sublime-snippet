@@ -2,5 +2,5 @@
 	<content><![CDATA[removeRequest(${1:request})$0]]></content>
 	<tabTrigger>removeRequest</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Request.Queue</description>
+	<description>Moo.More Request.Queue</description>
 </snippet>

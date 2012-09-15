@@ -2,5 +2,5 @@
 	<content><![CDATA[occlude(${1:property}, ${2:element})$0]]></content>
 	<tabTrigger>occlude</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Class</description>
+	<description>Moo.More Class</description>
 </snippet>

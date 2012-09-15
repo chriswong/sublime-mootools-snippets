@@ -2,5 +2,5 @@
 	<content><![CDATA[validate(${1:event})$0]]></content>
 	<tabTrigger>validate</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Forms</description>
+	<description>Moo.More Forms</description>
 </snippet>

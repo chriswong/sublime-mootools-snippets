@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Platform.win$0]]></content>
 	<tabTrigger>Browser.Platform.win</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Browser</description>
+	<description>Moo.Browser.Platform.win</description>
 </snippet>

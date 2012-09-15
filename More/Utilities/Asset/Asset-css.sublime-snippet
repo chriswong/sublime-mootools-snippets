@@ -2,5 +2,5 @@
 	<content><![CDATA[Asset.css(${1:source[, properties]})$0]]></content>
 	<tabTrigger>Asset.css</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Asset</description>
+	<description>Moo.More Asset</description>
 </snippet>

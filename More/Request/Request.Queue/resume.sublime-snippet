@@ -2,5 +2,5 @@
 	<content><![CDATA[resume()$0]]></content>
 	<tabTrigger>resume</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Request.Queue</description>
+	<description>Moo.More Request.Queue</description>
 </snippet>

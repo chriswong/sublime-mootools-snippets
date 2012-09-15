@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[push(${1:element})$0]]></content>
+	<content><![CDATA[push(${1:el})$0]]></content>
 	<tabTrigger>push</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Elements</description>
+	<description>Moo.push(el) Elements</description>
 </snippet>

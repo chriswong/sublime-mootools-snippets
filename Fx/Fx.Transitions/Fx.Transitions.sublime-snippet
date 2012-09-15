@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx.Transitions(${1:transition})$0]]></content>
 	<tabTrigger>Fx.Transitions</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools Fx.Transitions</description>
+	<description>Moo.Fx.Transitions(tran)</description>
 </snippet>

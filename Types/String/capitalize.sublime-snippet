@@ -2,5 +2,5 @@
 	<content><![CDATA[capitalize()$0]]></content>
 	<tabTrigger>capitalize</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools String</description>
+	<description>Moo.String</description>
 </snippet>
