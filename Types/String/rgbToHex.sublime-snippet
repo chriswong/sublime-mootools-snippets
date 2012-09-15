@@ -2,5 +2,5 @@
 	<content><![CDATA[rgbToHex()$0]]></content>
 	<tabTrigger>rgbToHex</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.String</description>
+	<description>Moo.rgbToHex() String</description>
 </snippet>

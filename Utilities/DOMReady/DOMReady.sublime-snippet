@@ -4,5 +4,5 @@
 });]]></content>
 	<tabTrigger>DOMReady</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools</description>
+	<description>Moo.DOMReady</description>
 </snippet>

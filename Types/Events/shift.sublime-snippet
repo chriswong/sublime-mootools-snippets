@@ -2,5 +2,5 @@
 	<content><![CDATA[shift$0]]></content>
 	<tabTrigger>shift</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Event</description>
+	<description>Moo.shift Event</description>
 </snippet>

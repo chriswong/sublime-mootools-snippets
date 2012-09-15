@@ -2,5 +2,5 @@
 	<content><![CDATA[link(${1:obj})$0]]></content>
 	<tabTrigger>link</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Array</description>
+	<description>Moo.link(obj) Array</description>
 </snippet>

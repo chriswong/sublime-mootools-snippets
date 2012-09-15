@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Object.merge(${1:obj}, ${2:args..})$0]]></content>
-	<tabTrigger>Object.merge</tabTrigger>
-	<scope>source.js</scope>
-	<description>Moo.Object</description>
-</snippet>

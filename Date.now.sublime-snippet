@@ -2,5 +2,5 @@
 	<content><![CDATA[Date.now()$0]]></content>
 	<tabTrigger>Date.now</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Date.now</description>
+	<description>Moo.Date.now()</description>
 </snippet>

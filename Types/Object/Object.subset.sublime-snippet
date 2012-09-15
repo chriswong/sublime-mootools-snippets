@@ -2,5 +2,5 @@
 	<content><![CDATA[Object.subset(${1:obj}, ${2:keys})$0]]></content>
 	<tabTrigger>Object.subset</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Object</description>
+	<description>Moo.Object.subset(obj, keys)</description>
 </snippet>

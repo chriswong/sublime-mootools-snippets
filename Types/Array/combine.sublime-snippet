@@ -2,5 +2,5 @@
 	<content><![CDATA[combine(${1:array})$0]]></content>
 	<tabTrigger>combine</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Array</description>
+	<description>Moo.combine(array) Array</description>
 </snippet>

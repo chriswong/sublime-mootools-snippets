@@ -2,5 +2,5 @@
 	<content><![CDATA[pass(${1:args[, bind]})$0]]></content>
 	<tabTrigger>pass</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Function</description>
+	<description>Moo.pass(ars[, bind]) Function</description>
 </snippet>

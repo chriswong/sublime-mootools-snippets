@@ -2,5 +2,5 @@
 	<content><![CDATA[contains(${1:string[, separator]})$0]]></content>
 	<tabTrigger>contains</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.String</description>
+	<description>Moo.contains(str[, separator]) String</description>
 </snippet>
