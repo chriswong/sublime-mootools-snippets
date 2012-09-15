@@ -2,5 +2,5 @@
 	<content><![CDATA[stop()$0]]></content>
 	<tabTrigger>stop</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Event</description>
+	<description>Moo.stop() Event</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[Array.from(${1:obj})$0]]></content>
 	<tabTrigger>Array.form</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Array</description>
+	<description>Moo.Array.from(obj)</description>
 </snippet>

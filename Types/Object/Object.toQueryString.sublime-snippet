@@ -2,5 +2,5 @@
 	<content><![CDATA[Object.toQueryString(${1:obj})$0]]></content>
 	<tabTrigger>Object.toQueryString</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Object</description>
+	<description>Moo.Object.toQueryString(obj)</description>
 </snippet>

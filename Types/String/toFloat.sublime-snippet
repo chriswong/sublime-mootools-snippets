@@ -2,5 +2,5 @@
 	<content><![CDATA[toFloat()$0]]></content>
 	<tabTrigger>toFloat</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.String</description>
+	<description>Moo.toFloat() String</description>
 </snippet>

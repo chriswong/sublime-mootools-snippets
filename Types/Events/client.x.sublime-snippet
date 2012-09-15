@@ -2,5 +2,5 @@
 	<content><![CDATA[client.x$0]]></content>
 	<tabTrigger>client.x</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Event</description>
+	<description>Moo.client.x Event</description>
 </snippet>

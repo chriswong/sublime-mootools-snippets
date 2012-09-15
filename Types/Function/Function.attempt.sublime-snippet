@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Function.attempt</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Function</description>
+	<description>Moo.Function.attempt(fn[, fn ...])</description>
 </snippet>

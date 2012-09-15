@@ -2,5 +2,5 @@
 	<content><![CDATA[attempt(${1:args[, bind]})$0]]></content>
 	<tabTrigger>attempt</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Function</description>
+	<description>Moo.attempt(args[, bind]) Function</description>
 </snippet>

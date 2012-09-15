@@ -2,5 +2,5 @@
 	<content><![CDATA[wheel$0]]></content>
 	<tabTrigger>wheel</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Event</description>
+	<description>Moo.wheel Event</description>
 </snippet>

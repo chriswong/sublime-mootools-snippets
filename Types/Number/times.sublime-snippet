@@ -2,5 +2,5 @@
 	<content><![CDATA[times(${1:fn})$0]]></content>
 	<tabTrigger>times</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Number</description>
+	<description>Moo.times(fn) Number</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[stripScripts(${1:[evalute]})$0]]></content>
 	<tabTrigger>stripScripts</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.String</description>
+	<description>Moo.stripScripts(evalute) String</description>
 </snippet>

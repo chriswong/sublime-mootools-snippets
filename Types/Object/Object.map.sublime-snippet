@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Object.map</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Object</description>
+	<description>Moo.Object.map(obj, fn[, bind])</description>
 </snippet>

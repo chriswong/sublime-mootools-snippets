@@ -2,5 +2,5 @@
 	<content><![CDATA[atan2()$0]]></content>
 	<tabTrigger>atan2</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Number</description>
+	<description>Moo.atan2() Number</description>
 </snippet>

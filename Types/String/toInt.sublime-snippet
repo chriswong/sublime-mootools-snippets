@@ -2,5 +2,5 @@
 	<content><![CDATA[toInt()$0]]></content>
 	<tabTrigger>toInt</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.String</description>
+	<description>Moo.toInt() String</description>
 </snippet>

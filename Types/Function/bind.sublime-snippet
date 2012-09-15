@@ -2,5 +2,5 @@
 	<content><![CDATA[bind(${1:obj})$0]]></content>
 	<tabTrigger>bind</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Function</description>
+	<description>Moo.bind(obj) Function</description>
 </snippet>
