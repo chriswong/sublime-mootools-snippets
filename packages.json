@@ -1,13 +1,21 @@
 {
-    "schema_version": "1.0",
+    "schema_version": "1.2",
     "packages": [
         {
             "name": "Mootools Snippets",
             "description": "Mootools API Snippets for Sublime Text",
             "author": "Chris <wfsr@foxmail.com>",
             "homepage": "https://github.com/chriswong/sublime-mootools-snippets",
-            "last_modified": "2012-09-11 15:15:22",
-            "platforms": '*'
+            "last_modified": "2012-09-16 00:42:55",
+            "platforms": {
+                "*":[
+                    {
+                        "version": "1.0.0",
+                        "url": "https://github.com/chriswong/sublime-mootools-snippets/zipball/v1"
+                    }
+                ]
+            
+            }
         }
     ]
 }
