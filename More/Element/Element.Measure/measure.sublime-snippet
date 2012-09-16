@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>measure</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.measure(fn) More</description>
 </snippet>

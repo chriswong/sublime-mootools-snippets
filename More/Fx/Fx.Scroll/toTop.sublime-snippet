@@ -2,5 +2,5 @@
 	<content><![CDATA[toTop()$0]]></content>
 	<tabTrigger>toTop</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx.Scroll</description>
+	<description>Moo.toTop() More</description>
 </snippet>

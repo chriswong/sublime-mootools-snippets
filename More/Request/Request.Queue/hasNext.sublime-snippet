@@ -2,5 +2,5 @@
 	<content><![CDATA[hasNext(${1:[name]})$0]]></content>
 	<tabTrigger>hasNext</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request.Queue</description>
+	<description>Moo.hasNext(name) More</description>
 </snippet>

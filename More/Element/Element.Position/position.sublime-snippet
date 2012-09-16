@@ -2,5 +2,5 @@
 	<content><![CDATA[position(${1:[options]})$0]]></content>
 	<tabTrigger>position</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.position([options]) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx.SmoothScroll(${1:[options[, win]]})$0]]></content>
 	<tabTrigger>Fx.SmoothScroll</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx</description>
+	<description>Moo.Fx.SmoothScroll([options[, win]]) More</description>
 </snippet>

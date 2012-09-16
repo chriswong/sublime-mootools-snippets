@@ -2,5 +2,5 @@
 	<content><![CDATA[insertAtCursor(${1:value[, selectText]})$0]]></content>
 	<tabTrigger>insertAtCursor</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.insertAtCursor(value[, seletText]) More</description>
 </snippet>

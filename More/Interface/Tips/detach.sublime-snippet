@@ -2,5 +2,5 @@
 	<content><![CDATA[detach(${1:elements})$0]]></content>
 	<tabTrigger>detach</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Tips</description>
+	<description>Moo.detach(els) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[rgbToHsb()$0]]></content>
 	<tabTrigger>rgbToHsb</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Array</description>
+	<description>Moo.rgbToHsb() More</description>
 </snippet>

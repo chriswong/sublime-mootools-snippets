@@ -2,5 +2,5 @@
 	<content><![CDATA[runNext(${1:[name]})$0]]></content>
 	<tabTrigger>runNext</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request.Queue</description>
+	<description>Moo.runNext(name) More</description>
 </snippet>

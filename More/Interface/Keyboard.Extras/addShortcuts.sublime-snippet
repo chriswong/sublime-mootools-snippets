@@ -8,5 +8,5 @@
 })$0]]></content>
 	<tabTrigger>addShortcuts</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo More addShortcuts</description>
+	<description>Moo.addShortcuts(obj) More</description>
 </snippet>

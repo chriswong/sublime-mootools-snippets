@@ -2,5 +2,5 @@
 	<content><![CDATA[selectRange(${1:startRow}, ${2:endRow})$0]]></content>
 	<tabTrigger>selectRange</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More HtmlTable</description>
+	<description>Moo.selectRange(startRow, endRow) More</description>
 </snippet>

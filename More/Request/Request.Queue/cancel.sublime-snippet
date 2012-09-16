@@ -2,5 +2,5 @@
 	<content><![CDATA[cancel(${1:[name]})$0]]></content>
 	<tabTrigger>cancel</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request.Queue</description>
+	<description>Moo.cancel(name) More</description>
 </snippet>

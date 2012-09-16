@@ -2,5 +2,5 @@
 	<content><![CDATA[setCaretPosition(${1:pos})$0]]></content>
 	<tabTrigger>setCaretPosition</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.setCaretPosition(pos) More</description>
 </snippet>

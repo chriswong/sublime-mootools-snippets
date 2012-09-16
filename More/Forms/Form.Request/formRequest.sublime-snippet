@@ -2,5 +2,5 @@
 	<content><![CDATA[formRequest(${1:update}, ${2:options})$0]]></content>
 	<tabTrigger>formRequest</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.formRequest(update, options) More</description>
 </snippet>

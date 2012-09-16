@@ -2,5 +2,5 @@
 	<content><![CDATA[detach()$0]]></content>
 	<tabTrigger>detach</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Drag</description>
+	<description>Moo.detach() More</description>
 </snippet>

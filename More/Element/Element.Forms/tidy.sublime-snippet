@@ -2,5 +2,5 @@
 	<content><![CDATA[tidy()$0]]></content>
 	<tabTrigger>tidy</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.tidy() More</description>
 </snippet>

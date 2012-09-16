@@ -2,5 +2,5 @@
 	<content><![CDATA[OverText.update()$0]]></content>
 	<tabTrigger>OverText.update</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.OverText.update() More</description>
 </snippet>

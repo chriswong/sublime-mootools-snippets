@@ -2,5 +2,5 @@
 	<content><![CDATA[getName(${1:request})$0]]></content>
 	<tabTrigger>getName</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request.Queue</description>
+	<description>Moo.getName() More</description>
 </snippet>

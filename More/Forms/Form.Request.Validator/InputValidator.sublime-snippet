@@ -2,5 +2,5 @@
 	<content><![CDATA[InputValidator(${1:name}, ${2:options})$0]]></content>
 	<tabTrigger>InputValidator</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.InputValidator(name, options) More</description>
 </snippet>

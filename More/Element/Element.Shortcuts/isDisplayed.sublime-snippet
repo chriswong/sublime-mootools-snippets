@@ -2,5 +2,5 @@
 	<content><![CDATA[isDisplayed()$0]]></content>
 	<tabTrigger>isDisplayed</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.isDisplayed() More</description>
 </snippet>

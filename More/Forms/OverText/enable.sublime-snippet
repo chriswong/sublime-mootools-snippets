@@ -2,5 +2,5 @@
 	<content><![CDATA[enable()$0]]></content>
 	<tabTrigger>enable</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.enable() More</description>
 </snippet>

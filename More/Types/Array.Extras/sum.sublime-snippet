@@ -2,5 +2,5 @@
 	<content><![CDATA[sum()$0]]></content>
 	<tabTrigger>sum</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Array</description>
+	<description>Moo.sum() More</description>
 </snippet>

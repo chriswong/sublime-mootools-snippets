@@ -11,5 +11,5 @@
 })$0]]></content>
 	<tabTrigger>Request.JSONP</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request.JSONP</description>
+	<description>Moo.Request.JSONP(options) More</description>
 </snippet>

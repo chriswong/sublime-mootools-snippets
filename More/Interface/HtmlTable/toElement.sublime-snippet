@@ -2,5 +2,5 @@
 	<content><![CDATA[toElement()$0]]></content>
 	<tabTrigger>toElement</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More HtmlTable</description>
+	<description>Moo.toElement() More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[removeLists(${1:list1[, ...]})$0]]></content>
 	<tabTrigger>removeLists</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Sortables</description>
+	<description>Moo.removeLists(list1[, ...]) More</description>
 </snippet>

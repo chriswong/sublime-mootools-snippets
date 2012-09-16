@@ -2,5 +2,5 @@
 	<content><![CDATA[reposition()$0]]></content>
 	<tabTrigger>reposition</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.reposition() More</description>
 </snippet>

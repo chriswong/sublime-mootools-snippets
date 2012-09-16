@@ -2,5 +2,5 @@
 	<content><![CDATA[makeDraggable(${1:[options]})$0]]></content>
 	<tabTrigger>makeDraggable</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Drag</description>
+	<description>Moo.makeDraggable([options]) More</description>
 </snippet>

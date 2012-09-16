@@ -2,5 +2,5 @@
 	<content><![CDATA[add(${1:name}, ${2:options})$0]]></content>
 	<tabTrigger>add</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.add(name, options) More</description>
 </snippet>

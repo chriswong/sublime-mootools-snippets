@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx.Slide(${1:element[, options]})$0]]></content>
 	<tabTrigger>Fx.Slide</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx</description>
+	<description>Moo.Fx.Slide(el[, options]) More</description>
 </snippet>

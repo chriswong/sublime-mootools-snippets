@@ -2,5 +2,5 @@
 	<content><![CDATA[detach(${1:toggler})$0]]></content>
 	<tabTrigger>detach</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx</description>
+	<description>Moo.detach(toggler) More</description>
 </snippet>

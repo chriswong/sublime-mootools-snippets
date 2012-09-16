@@ -2,5 +2,5 @@
 	<content><![CDATA[ignoreField(${1:field[, warn]})$0]]></content>
 	<tabTrigger>ignoreField</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.ignoreField(field[, warn]) More</description>
 </snippet>

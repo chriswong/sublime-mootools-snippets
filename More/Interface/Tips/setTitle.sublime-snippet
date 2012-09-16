@@ -2,5 +2,5 @@
 	<content><![CDATA[setTitle(${1:title})$0]]></content>
 	<tabTrigger>setTitle</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Tips</description>
+	<description>Moo.setTitle(title) More</description>
 </snippet>

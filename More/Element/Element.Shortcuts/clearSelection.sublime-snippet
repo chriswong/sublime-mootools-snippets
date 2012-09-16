@@ -2,5 +2,5 @@
 	<content><![CDATA[clearSelection()$0]]></content>
 	<tabTrigger>clearSelection</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.clearSelection() More</description>
 </snippet>

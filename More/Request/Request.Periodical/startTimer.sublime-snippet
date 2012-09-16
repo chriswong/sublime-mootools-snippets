@@ -2,5 +2,5 @@
 	<content><![CDATA[startTimer(${1:data})$0]]></content>
 	<tabTrigger>startTimer</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request</description>
+	<description>Moo.startTimer(data) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[toRight()$0]]></content>
 	<tabTrigger>toRight</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx.Scroll</description>
+	<description>Moo.toRight() More</description>
 </snippet>

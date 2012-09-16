@@ -2,5 +2,5 @@
 	<content><![CDATA[getSelectionEnd()$0]]></content>
 	<tabTrigger>getSelectionEnd</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.getSelectionEnd() More</description>
 </snippet>

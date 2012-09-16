@@ -2,5 +2,5 @@
 	<content><![CDATA[keys(${1:key})$0]]></content>
 	<tabTrigger>Pseudo:keys</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Events</description>
+	<description>Moo.Pseudo.keys(key) More</description>
 </snippet>

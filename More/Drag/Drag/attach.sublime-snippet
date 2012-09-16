@@ -2,5 +2,5 @@
 	<content><![CDATA[attach()$0]]></content>
 	<tabTrigger>attach</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Drag</description>
+	<description>Moo.attach() More</description>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Locale.Set.from(${1:JSON str}$0]]></content>
-	<tabTrigger>Locale.Set.from</tabTrigger>
-	<scope>source.js</scope>
-	<description>Moo.More Locale</description>
-</snippet>

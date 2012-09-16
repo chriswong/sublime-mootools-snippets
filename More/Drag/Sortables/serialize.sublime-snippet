@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>serialize</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Sortables</description>
+	<description>Moo.serialize(index[, modifier]) More</description>
 </snippet>

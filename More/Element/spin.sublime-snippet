@@ -2,5 +2,5 @@
 	<content><![CDATA[spin(${1:[options]})$0]]></content>
 	<tabTrigger>spin</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Element</description>
+	<description>Moo.spin([options]) More</description>
 </snippet>

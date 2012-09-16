@@ -2,5 +2,5 @@
 	<content><![CDATA[rearrangeDOM(${1:order})$0]]></content>
 	<tabTrigger>rearrangeDOM</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx</description>
+	<description>Moo.rearrangeDOM(order) More</description>
 </snippet>
