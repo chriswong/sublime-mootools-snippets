@@ -2,5 +2,5 @@
 	<content><![CDATA[indexOf(${1:key})${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>indexOf</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.indexOf(key) More</description>
 </snippet>

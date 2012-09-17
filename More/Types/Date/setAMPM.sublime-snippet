@@ -2,5 +2,5 @@
 	<content><![CDATA[setAMPM(${1:ampm})$0]]></content>
 	<tabTrigger>setAMPM</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.setAMPM(ampm) More</description>
 </snippet>

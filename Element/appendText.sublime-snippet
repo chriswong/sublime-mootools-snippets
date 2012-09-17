@@ -2,5 +2,5 @@
 	<content><![CDATA[appendText(${1:text, where})$0]]></content>
 	<tabTrigger>appendText</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.appendText(text, where) Element</description>
+	<description>Moo.appendText(text, where) Core</description>
 </snippet>

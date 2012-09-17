@@ -2,5 +2,5 @@
 	<content><![CDATA[Asset.image(${1:source[, properties]})$0]]></content>
 	<tabTrigger>Asset.image</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Asset</description>
+	<description>Moo.Asset.image(source[, props]) More</description>
 </snippet>

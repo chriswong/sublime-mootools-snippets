@@ -2,5 +2,5 @@
 	<content><![CDATA[implement(${1:obj})$0]]></content>
 	<tabTrigger>implement</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.implement(obj) Function</description>
+	<description>Moo.implement(obj) Core</description>
 </snippet>

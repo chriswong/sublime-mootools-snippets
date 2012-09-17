@@ -2,5 +2,5 @@
 	<content><![CDATA[start(${1:from[, to]})$0]]></content>
 	<tabTrigger>start</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.start(from[, to]) Fx</description>
+	<description>Moo.start(from[, to]) Core</description>
 </snippet>

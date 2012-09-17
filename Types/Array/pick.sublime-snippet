@@ -2,5 +2,5 @@
 	<content><![CDATA[pick()$0]]></content>
 	<tabTrigger>pick</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.pick() Array</description>
+	<description>Moo.pick() Core</description>
 </snippet>

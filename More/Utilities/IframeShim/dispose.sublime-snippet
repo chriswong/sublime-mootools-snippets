@@ -2,5 +2,5 @@
 	<content><![CDATA[dispose()$0]]></content>
 	<tabTrigger>dispose</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More IframeShim</description>
+	<description>Moo.dispose() More</description>
 </snippet>

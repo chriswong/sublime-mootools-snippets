@@ -2,5 +2,5 @@
 	<content><![CDATA[getKeys()${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>getKeys</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.getKeys() More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[getStyle('${1:property}')$0]]></content>
 	<tabTrigger>getStyle</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.getStyle(prop) Element</description>
+	<description>Moo.getStyle(prop) Core</description>
 </snippet>

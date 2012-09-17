@@ -2,5 +2,5 @@
 	<content><![CDATA[setProperty('${1:property}', ${2:value})$0]]></content>
 	<tabTrigger>setProperty</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.setProperty(prop, value) Element</description>
+	<description>Moo.setProperty(prop, value) Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[setStyles(${1:styles})$0]]></content>
 	<tabTrigger>setStyles</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.styles(styles) Element</description>
+	<description>Moo.styles(styles) Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[relatedTarget$0]]></content>
 	<tabTrigger>relatedTarget</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.relatedTarget() Event</description>
+	<description>Moo.relatedTarget() Core</description>
 </snippet>

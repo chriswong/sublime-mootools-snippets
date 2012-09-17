@@ -2,5 +2,5 @@
 	<content><![CDATA[getFirst(${1:[match]})$0]]></content>
 	<tabTrigger>getFirst</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.getFirst([match]) Element</description>
+	<description>Moo.getFirst([match]) Core</description>
 </snippet>

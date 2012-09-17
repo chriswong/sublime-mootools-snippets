@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Request$0]]></content>
 	<tabTrigger>Browser.Request</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.Request</description>
+	<description>Moo.Browser.Request Core</description>
 </snippet>

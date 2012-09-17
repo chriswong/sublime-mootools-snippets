@@ -2,5 +2,5 @@
 	<content><![CDATA[Slick.uidOf(${1:node})$0;]]></content>
 	<tabTrigger>Slick.uidOf</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Slick.uidOf(node)</description>
+	<description>Moo.Slick.uidOf(node) Core</description>
 </snippet>

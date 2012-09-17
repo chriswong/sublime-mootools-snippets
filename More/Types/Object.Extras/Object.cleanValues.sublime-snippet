@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Object.cleanValues</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Object</description>
+	<description>Moo.Object.cleanValues(obj, fn) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[send(${1:[options]})$0]]></content>
 	<tabTrigger>send</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.send([options]) Request</description>
+	<description>Moo.send([options]) Core</description>
 </snippet>

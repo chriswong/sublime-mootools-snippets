@@ -8,7 +8,7 @@
 		${4://todo;}
 	}$5
 })$0;]]></content>
-	<tabTrigger>Class</tabTrigger>
+	<tabTrigger>tplClass</tabTrigger>
 	<scope>source.js</scope>
 	<description>Moo.Class Template</description>
 </snippet>

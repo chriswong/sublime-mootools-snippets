@@ -2,5 +2,5 @@
 	<content><![CDATA[save()$0]]></content>
 	<tabTrigger>save</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Hash.Cookie</description>
+	<description>Moo.save() More</description>
 </snippet>

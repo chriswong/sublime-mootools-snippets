@@ -8,5 +8,5 @@
 })$0]]></content>
 	<tabTrigger>Request.HTML</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Request.HTML([options])</description>
+	<description>Moo.Request.HTML([options]) Core</description>
 </snippet>

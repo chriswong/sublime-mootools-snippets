@@ -2,5 +2,5 @@
 	<content><![CDATA[get(${1:[data]})$0]]></content>
 	<tabTrigger>get</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.get([data]) Request</description>
+	<description>Moo.get([data]) Core</description>
 </snippet>

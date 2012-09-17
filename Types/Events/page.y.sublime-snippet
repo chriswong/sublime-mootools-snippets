@@ -2,5 +2,5 @@
 	<content><![CDATA[page.y$0]]></content>
 	<tabTrigger>page.y</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.page.y Event</description>
+	<description>Moo.page.y Core</description>
 </snippet>

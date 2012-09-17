@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.firefox$0]]></content>
 	<tabTrigger>Browser.firefox</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.firefox</description>
+	<description>Moo.Browser.firefox Core</description>
 </snippet>

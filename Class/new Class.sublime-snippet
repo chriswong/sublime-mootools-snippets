@@ -10,5 +10,5 @@
 })$0;]]></content>
 	<tabTrigger>new Class</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Class(props)</description>
+	<description>Moo.Class(props) Core</description>
 </snippet>

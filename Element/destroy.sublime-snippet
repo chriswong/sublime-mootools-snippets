@@ -2,5 +2,5 @@
 	<content><![CDATA[destroy()$0]]></content>
 	<tabTrigger>destroy</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.destroy() Element</description>
+	<description>Moo.destroy() Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.chrome$0]]></content>
 	<tabTrigger>Browser.chrome</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.chrome</description>
+	<description>Moo.Browser.chrome Core</description>
 </snippet>

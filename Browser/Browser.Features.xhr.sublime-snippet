@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Features.xhr$0]]></content>
 	<tabTrigger>Browser.Features.xhr</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browse.Features.xhr</description>
+	<description>Moo.Browse.Features.xhr Core</description>
 </snippet>

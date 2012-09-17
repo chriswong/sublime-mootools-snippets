@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Engine.gecko${0://Mootols Browser 1.2}]]></content>
 	<tabTrigger>Browser.Engine.gecko</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.Engine.gecko</description>
+	<description>Moo.Browser.Engine.gecko Core</description>
 </snippet>

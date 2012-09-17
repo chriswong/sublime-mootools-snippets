@@ -2,5 +2,5 @@
 	<content><![CDATA[get(${1:key})$0]]></content>
 	<tabTrigger>get</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.get(key) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[clean()$0]]></content>
 	<tabTrigger>clean</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.clean() String</description>
+	<description>Moo.clean() Core</description>
 </snippet>

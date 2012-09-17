@@ -2,5 +2,5 @@
 	<content><![CDATA[limit(${1:min}, ${2:max})$0]]></content>
 	<tabTrigger>limit</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.limit(min, max) Number</description>
+	<description>Moo.limit(min, max) Core</description>
 </snippet>

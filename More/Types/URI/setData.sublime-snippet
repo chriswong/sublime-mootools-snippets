@@ -2,5 +2,5 @@
 	<content><![CDATA[setData(${1:data[, merge, part]})$0]]></content>
 	<tabTrigger>setData</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More URI</description>
+	<description>Moo.setData(data[, merge, part]) More</description>
 </snippet>

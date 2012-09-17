@@ -2,5 +2,5 @@
 	<content><![CDATA[setPosition(${1:position})$0]]></content>
 	<tabTrigger>setPosition</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.setPosition(position) Element</description>
+	<description>Moo.setPosition(position) Core</description>
 </snippet>

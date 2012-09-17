@@ -2,5 +2,5 @@
 	<content><![CDATA[Cookie.dispose(${1:name[, options]})$0]]></content>
 	<tabTrigger>Cookie.dispose</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Cookie.dispose(name[, options])</description>
+	<description>Moo.Cookie.dispose(name[, options]) Core</description>
 </snippet>

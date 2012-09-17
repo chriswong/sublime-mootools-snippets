@@ -2,5 +2,5 @@
 	<content><![CDATA[tan()$0]]></content>
 	<tabTrigger>tan</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.tan() Number</description>
+	<description>Moo.tan() Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[getLast(${1:[match]})$0]]></content>
 	<tabTrigger>getLast</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.getLast([match]) Element</description>
+	<description>Moo.getLast([match]) Core</description>
 </snippet>

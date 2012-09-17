@@ -2,5 +2,5 @@
 	<content><![CDATA[getGMTOffset()$0]]></content>
 	<tabTrigger>getGMTOffset</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.getGMTOffset() More</description>
 </snippet>

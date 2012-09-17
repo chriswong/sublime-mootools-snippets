@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Date.defineFormats</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.Date.defineFormats(formats) More</description>
 </snippet>

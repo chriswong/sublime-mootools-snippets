@@ -2,5 +2,5 @@
 	<content><![CDATA[format(${1:format})$0]]></content>
 	<tabTrigger>format</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.format(format) More</description>
 </snippet>

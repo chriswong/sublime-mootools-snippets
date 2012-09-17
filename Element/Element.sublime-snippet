@@ -2,5 +2,5 @@
 	<content><![CDATA[Element('${1:el}', ${2:\{properties\}})$0]]></content>
 	<tabTrigger>Element</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Element</description>
+	<description>Moo.Element Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[floor()$0]]></content>
 	<tabTrigger>floor</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.floor() Number</description>
+	<description>Moo.floor() Core</description>
 </snippet>

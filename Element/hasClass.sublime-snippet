@@ -2,5 +2,5 @@
 	<content><![CDATA[hasClass('${1:className})'$0]]></content>
 	<tabTrigger>hasClass</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.hasClass(className) Element</description>
+	<description>Moo.hasClass(className) Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[morph(${1:properties})$0]]></content>
 	<tabTrigger>morph</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.morph(props) Element</description>
+	<description>Moo.morph(props) Core</description>
 </snippet>

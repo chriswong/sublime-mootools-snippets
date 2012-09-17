@@ -2,5 +2,5 @@
 	<content><![CDATA[Table()$0]]></content>
 	<tabTrigger>Table</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Table</description>
+	<description>Moo.Table() More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[cloneEvents(${1:from})$0]]></content>
 	<tabTrigger>cloneEvents</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.cloneEvents(from) Events</description>
+	<description>Moo.cloneEvents(from) Core</description>
 </snippet>

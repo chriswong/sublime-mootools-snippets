@@ -2,5 +2,5 @@
 	<content><![CDATA[push(${1:el})$0]]></content>
 	<tabTrigger>push</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.push(el) Elements</description>
+	<description>Moo.push(el) Core</description>
 </snippet>

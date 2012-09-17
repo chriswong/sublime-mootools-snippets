@@ -2,5 +2,5 @@
 	<content><![CDATA[set(${1:to})$0]]></content>
 	<tabTrigger>set</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.set(to) Fx</description>
+	<description>Moo.set(to) Core</description>
 </snippet>

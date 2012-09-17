@@ -2,5 +2,5 @@
 	<content><![CDATA[toURI()$0]]></content>
 	<tabTrigger>toURI</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More URI</description>
+	<description>Moo.toURI() More</description>
 </snippet>

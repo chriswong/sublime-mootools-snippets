@@ -2,5 +2,5 @@
 	<content><![CDATA[getPrevious(${1:[match]})$0]]></content>
 	<tabTrigger>getPrevious</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.getPrevious([match]) Element</description>
+	<description>Moo.getPrevious([match]) Core</description>
 </snippet>

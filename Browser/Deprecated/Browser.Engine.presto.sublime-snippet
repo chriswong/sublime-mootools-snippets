@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Engine.presto${0://Mootols Browser 1.2}]]></content>
 	<tabTrigger>Browser.Engine.presto</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.Engine.presto</description>
+	<description>Moo.Browser.Engine.presto Core</description>
 </snippet>

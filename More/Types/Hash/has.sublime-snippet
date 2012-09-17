@@ -2,5 +2,5 @@
 	<content><![CDATA[has(${1:property})${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>has</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.has(prop) More</description>
 </snippet>

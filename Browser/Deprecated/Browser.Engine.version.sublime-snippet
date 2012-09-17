@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Engine.version${0://Mootols Browser 1.2}]]></content>
 	<tabTrigger>Browser.Engine.trident</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Engine.version</description>
+	<description>Moo.Engine.version Core</description>
 </snippet>

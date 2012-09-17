@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>cleanQueryString</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More String</description>
+	<description>Moo.cleanQueryString([fn]) More</description>
 </snippet>

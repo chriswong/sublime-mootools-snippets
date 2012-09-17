@@ -2,5 +2,5 @@
 	<content><![CDATA[Extends: ${1:[Classes]}$0]]></content>
 	<tabTrigger>Extends</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Extends</description>
+	<description>Moo.Extends Core</description>
 </snippet>

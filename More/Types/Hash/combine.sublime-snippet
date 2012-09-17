@@ -2,5 +2,5 @@
 	<content><![CDATA[combine(${1:properties})${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>combine</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.combine(props) More</description>
 </snippet>

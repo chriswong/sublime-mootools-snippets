@@ -2,5 +2,5 @@
 	<content><![CDATA[associate(${1:array})$0]]></content>
 	<tabTrigger>associate</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.associate(array) Array</description>
+	<description>Moo.associate(array) Core</description>
 </snippet>

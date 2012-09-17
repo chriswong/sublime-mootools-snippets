@@ -4,5 +4,5 @@
 })$0;]]></content>
 	<tabTrigger>Slick.definePseudo</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Slick.definePseudo(name, fn)</description>
+	<description>Moo.Slick.definePseudo(name, fn) Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.safari$0]]></content>
 	<tabTrigger>Browser.safari</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.safari</description>
+	<description>Moo.Browser.safari Core</description>
 </snippet>

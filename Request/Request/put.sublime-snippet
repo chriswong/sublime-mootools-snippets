@@ -2,5 +2,5 @@
 	<content><![CDATA[put(${1:[data]})$0]]></content>
 	<tabTrigger>put</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.put([data]) Request</description>
+	<description>Moo.put([data]) Core</description>
 </snippet>

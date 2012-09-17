@@ -2,5 +2,5 @@
 	<content><![CDATA[Array.clone(${1:array})$0]]></content>
 	<tabTrigger>Array.clone</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Array.clone(array)</description>
+	<description>Moo.Array.clone(array) Core</description>
 </snippet>

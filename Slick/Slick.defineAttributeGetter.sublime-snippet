@@ -4,5 +4,5 @@
 	})$0;]]></content>
 	<tabTrigger>Slick.defineAttributeGetter</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Slick.defineAttributeGetter(node)</description>
+	<description>Moo.Slick.defineAttributeGetter(node) Core</description>
 </snippet>

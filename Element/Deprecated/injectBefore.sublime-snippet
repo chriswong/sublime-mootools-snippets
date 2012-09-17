@@ -2,5 +2,5 @@
 	<content><![CDATA[injectBefore('${1:el}')${0://Mootools 1.1}]]></content>
 	<tabTrigger>injectBefore</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.injectBefore(el) Element</description>
+	<description>Moo.injectBefore(el) Core</description>
 </snippet>

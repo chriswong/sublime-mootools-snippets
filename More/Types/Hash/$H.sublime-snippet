@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$H(${1:obj})${0://Moo.1.2 Core & 1.4 More}]]></content>
-	<tabTrigger>H</tabTrigger>
+	<tabTrigger>$H</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.$H(obj) More</description>
 </snippet>

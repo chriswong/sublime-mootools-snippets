@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Object.some</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Object.some(obj, fn[, bind])</description>
+	<description>Moo.Object.some(obj, fn[, bind]) Core</description>
 </snippet>

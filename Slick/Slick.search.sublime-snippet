@@ -2,5 +2,5 @@
 	<content><![CDATA[Slick.search(${1:context}, ${2:expression}, ${3:append})$0;]]></content>
 	<tabTrigger>Slick.search</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Slick.search(context, expression, append)</description>
+	<description>Moo.Slick.search(context, expression, append) Core</description>
 </snippet>

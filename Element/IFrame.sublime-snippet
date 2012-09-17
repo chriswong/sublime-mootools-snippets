@@ -2,5 +2,5 @@
 	<content><![CDATA[IFrame(${1:[el][, properties]})$0]]></content>
 	<tabTrigger>IFrame</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.IFrame([el][, props]) Element</description>
+	<description>Moo.IFrame([el][, props]) Core</description>
 </snippet>

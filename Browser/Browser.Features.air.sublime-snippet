@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Features.air$0]]></content>
 	<tabTrigger>Browser.Features.air</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.Features.air</description>
+	<description>Moo.Browser.Features.air Core</description>
 </snippet>

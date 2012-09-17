@@ -2,5 +2,5 @@
 	<content><![CDATA[getChildren(${1:[match]})$0]]></content>
 	<tabTrigger>getChildren</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.getChildren([match]) Element</description>
+	<description>Moo.getChildren([match]) Core</description>
 </snippet>

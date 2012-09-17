@@ -2,5 +2,5 @@
 	<content><![CDATA[new DOMEvent(${1:event})$0]]></content>
 	<tabTrigger>new DOMEvent</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.DOMEvent(event)</description>
+	<description>Moo.DOMEvent(event) Core</description>
 </snippet>

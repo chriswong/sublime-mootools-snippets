@@ -4,5 +4,5 @@
 	})$0;]]></content>
 	<tabTrigger>Slick.override</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Slick.override(regex, fn)</description>
+	<description>Moo.Slick.override(regex, fn) Core</description>
 </snippet>

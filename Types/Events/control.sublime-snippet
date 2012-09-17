@@ -2,5 +2,5 @@
 	<content><![CDATA[control$0]]></content>
 	<tabTrigger>control</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.control Event</description>
+	<description>Moo.control Core</description>
 </snippet>

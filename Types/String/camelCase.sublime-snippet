@@ -2,5 +2,5 @@
 	<content><![CDATA[camelCase()$0]]></content>
 	<tabTrigger>camelCase</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.camelCase() String</description>
+	<description>Moo.camelCase() Core</description>
 </snippet>

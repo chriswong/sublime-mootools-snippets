@@ -16,5 +16,5 @@
 })$0]]></content>
 	<tabTrigger>Swiff</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Swiff(path[, options])</description>
+	<description>Moo.Swiff(path[, options]) Core</description>
 </snippet>

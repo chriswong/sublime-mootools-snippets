@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Array.each</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Array.each(iterable, fn[, bind])</description>
+	<description>Moo.Array.each(iterable, fn[, bind]) Core</description>
 </snippet>

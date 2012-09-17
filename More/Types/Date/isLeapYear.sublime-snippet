@@ -2,5 +2,5 @@
 	<content><![CDATA[isLeapYear()$0]]></content>
 	<tabTrigger>isLeapYear</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.isLeapYear() More</description>
 </snippet>
