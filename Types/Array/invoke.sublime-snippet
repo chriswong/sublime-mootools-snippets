@@ -2,5 +2,5 @@
 	<content><![CDATA[invoke('${1:method}', ${2:args})$0]]></content>
 	<tabTrigger>invoke</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.invoke(method[, arg, arg ...]) Array</description>
+	<description>Moo.invoke(method[, arg, arg ...]) Core</description>
 </snippet>

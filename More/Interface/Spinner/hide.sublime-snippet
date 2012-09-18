@@ -2,5 +2,5 @@
 	<content><![CDATA[hide(${1:noFx})$0]]></content>
 	<tabTrigger>hide</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Spinner</description>
+	<description>Moo.hide(noFx) More</description>
 </snippet>

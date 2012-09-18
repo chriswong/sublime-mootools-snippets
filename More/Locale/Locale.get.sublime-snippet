@@ -2,5 +2,5 @@
 	<content><![CDATA[Locale.get(${1:key[, args]})$0]]></content>
 	<tabTrigger>Locale.get</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Locale</description>
+	<description>Moo.Locale.get(key[, args]) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[getTimezone()$0]]></content>
 	<tabTrigger>getTimezone</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.getTimezone() More</description>
 </snippet>

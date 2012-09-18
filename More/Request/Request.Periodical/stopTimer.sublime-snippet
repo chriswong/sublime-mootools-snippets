@@ -2,5 +2,5 @@
 	<content><![CDATA[stopTimer()$0]]></content>
 	<tabTrigger>stopTimer</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request</description>
+	<description>Moo.stopTimer() More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[format(${1:[options]})$0]]></content>
 	<tabTrigger>format</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Number</description>
+	<description>Moo.format(options) More</description>
 </snippet>

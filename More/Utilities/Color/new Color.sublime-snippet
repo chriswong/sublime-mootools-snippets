@@ -2,5 +2,5 @@
 	<content><![CDATA[new Color(${1:color[, type]})$0]]></content>
 	<tabTrigger>new Color</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Color</description>
+	<description>Moo.Color(color[, type]) More</description>
 </snippet>

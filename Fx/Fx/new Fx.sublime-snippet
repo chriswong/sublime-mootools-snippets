@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[new Fx(${1:options})$0]]></content>
+	<tabTrigger>new Fx</tabTrigger>
+	<scope>source.js</scope>
+	<description>Moo.Fx(options) Core</description>
+</snippet>

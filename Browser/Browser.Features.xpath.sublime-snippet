@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Features.xpath$0]]></content>
 	<tabTrigger>Browser.Features.xpath</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.Features.xpath</description>
+	<description>Moo.Browser.Features.xpath Core</description>
 </snippet>

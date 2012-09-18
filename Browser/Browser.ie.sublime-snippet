@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.ie$0]]></content>
 	<tabTrigger>Browser.ie</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.ie</description>
+	<description>Moo.Browser.ie Core</description>
 </snippet>

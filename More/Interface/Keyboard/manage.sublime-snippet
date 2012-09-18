@@ -2,5 +2,5 @@
 	<content><![CDATA[manage(${1:childKeyboard})$0]]></content>
 	<tabTrigger>manage</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Keyboard</description>
+	<description>Moo.manage(childKeyboard) More</description>
 </snippet>

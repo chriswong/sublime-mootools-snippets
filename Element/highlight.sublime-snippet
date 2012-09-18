@@ -2,5 +2,5 @@
 	<content><![CDATA[highlight(${1:[start, end]})$0]]></content>
 	<tabTrigger>highlight</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.highlight([start, end]) Element</description>
+	<description>Moo.highlight([start, end]) Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[resume()$0]]></content>
 	<tabTrigger>resume</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.resume() Fx</description>
+	<description>Moo.resume() Core</description>
 </snippet>

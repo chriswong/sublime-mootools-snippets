@@ -2,5 +2,5 @@
 	<content><![CDATA[adopt(${1:el[, others]})$0]]></content>
 	<tabTrigger>adopt</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.adopt(el[, others]) Element</description>
+	<description>Moo.adopt(el[, others]) Core</description>
 </snippet>

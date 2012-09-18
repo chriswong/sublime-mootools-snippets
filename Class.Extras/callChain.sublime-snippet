@@ -2,5 +2,5 @@
 	<content><![CDATA[callChain()$0]]></content>
 	<tabTrigger>callChain</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.callChain() Chain</description>
+	<description>Moo.callChain() Core</description>
 </snippet>

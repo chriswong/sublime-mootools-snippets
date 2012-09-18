@@ -2,5 +2,5 @@
 	<content><![CDATA[min()$0]]></content>
 	<tabTrigger>min</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Array</description>
+	<description>Moo.min() More</description>
 </snippet>

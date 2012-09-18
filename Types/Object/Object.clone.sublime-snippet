@@ -2,5 +2,5 @@
 	<content><![CDATA[Object.clone(${1:obj})$0]]></content>
 	<tabTrigger>Object.clone</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Object.clone(obj)</description>
+	<description>Moo.Object.clone(obj) Core</description>
 </snippet>

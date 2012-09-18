@@ -2,5 +2,5 @@
 	<content><![CDATA[new Hash.Cookie(${1:name[, options]})$0]]></content>
 	<tabTrigger>new Hash.Cookie</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Hash.Cookie</description>
+	<description>Moo.Hash.Cookie(name[, options]) More</description>
 </snippet>

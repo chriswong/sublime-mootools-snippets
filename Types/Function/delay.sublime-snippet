@@ -2,5 +2,5 @@
 	<content><![CDATA[delay(${1:delay[, bind[, args]]})$0]]></content>
 	<tabTrigger>delay</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.delay(delay[, bind[, args]]) Function</description>
+	<description>Moo.delay(delay[, bind[, args]]) Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[toRelative(${1:[base]})$0]]></content>
 	<tabTrigger>toRelative</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More URI</description>
+	<description>Moo.toRelative([base]) More</description>
 </snippet>

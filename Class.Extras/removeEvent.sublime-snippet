@@ -2,5 +2,5 @@
 	<content><![CDATA[removeEvent('${1:type}', ${2:fn})$0]]></content>
 	<tabTrigger>removeEvent</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.removeEvent(type, fn) Events</description>
+	<description>Moo.removeEvent(type, fn) Core</description>
 </snippet>

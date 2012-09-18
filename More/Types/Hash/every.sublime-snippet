@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>every</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.every(fn[, bind])</description>
 </snippet>

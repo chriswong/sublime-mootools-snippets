@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[{
+	'${1:key}': ${2:value}
+}$0]]></content>
+	<tabTrigger>tpl.Object</tabTrigger>
+	<scope>source.js</scope>
+	<description>Moo.tpl.Object</description>
+</snippet>

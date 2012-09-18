@@ -2,5 +2,5 @@
 	<content><![CDATA[diff(${1:otherDate}, ${2:resolution//defaults to 'day'})$0]]></content>
 	<tabTrigger>diff</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.diff(otherDate) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[Implements: ${1:[Classes]}$0]]></content>
 	<tabTrigger>Implements</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Implements</description>
+	<description>Moo.Implements Core</description>
 </snippet>

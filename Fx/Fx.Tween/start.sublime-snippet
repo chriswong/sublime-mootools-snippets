@@ -2,5 +2,5 @@
 	<content><![CDATA[start(${1:property}, ${2:[from, ]to})$0]]></content>
 	<tabTrigger>start</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.start(prop, [from, ]to) Fx.Tween</description>
+	<description>Moo.start(prop, [from, ]to) Core</description>
 </snippet>

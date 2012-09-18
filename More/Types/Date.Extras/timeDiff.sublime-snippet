@@ -2,5 +2,5 @@
 	<content><![CDATA[timeDiff(${1:to}, ${2:separator})$0]]></content>
 	<tabTrigger>timeDiff</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.timeDiff(to, separator) More</description>
 </snippet>

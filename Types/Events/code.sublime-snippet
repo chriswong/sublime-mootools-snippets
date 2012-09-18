@@ -2,5 +2,5 @@
 	<content><![CDATA[code$0]]></content>
 	<tabTrigger>code</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.code Event</description>
+	<description>Moo.code Core</description>
 </snippet>

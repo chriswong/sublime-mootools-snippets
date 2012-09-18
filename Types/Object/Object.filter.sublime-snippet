@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Object.filter</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Object.filter(filter, fn[, bind])</description>
+	<description>Moo.Object.filter(filter, fn[, bind]) Core</description>
 </snippet>

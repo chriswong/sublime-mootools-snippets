@@ -2,5 +2,5 @@
 	<content><![CDATA[extend(${1:obj})$0]]></content>
 	<tabTrigger>extend</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.extend(obj) Function</description>
+	<description>Moo.extend(obj) Core</description>
 </snippet>

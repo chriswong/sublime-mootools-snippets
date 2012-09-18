@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Features.query$0]]></content>
 	<tabTrigger>Browser.Features.query</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.Features.query</description>
+	<description>Moo.Browser.Features.query Core</description>
 </snippet>

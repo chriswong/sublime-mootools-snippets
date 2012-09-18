@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[throttle(${1:timeSpan//Default time is 250 ms})$0]]></content>
+	<tabTrigger>Pseudo:throttle</tabTrigger>
+	<scope>source.js</scope>
+	<description>Moo.Pseudo.throttle(timeSpan) More</description>
+</snippet>

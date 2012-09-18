@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pause(${1:pauseTime//Default time is 250 ms})$0]]></content>
+	<tabTrigger>Pseudo:pause</tabTrigger>
+	<scope>source.js</scope>
+	<description>Moo.Pseudo.pause(pauseTime) More</description>
+</snippet>

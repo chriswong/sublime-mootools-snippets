@@ -2,5 +2,5 @@
 	<content><![CDATA[toQueryString()$0]]></content>
 	<tabTrigger>toQueryString</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.toQueryString() Element</description>
+	<description>Moo.toQueryString() Core</description>
 </snippet>

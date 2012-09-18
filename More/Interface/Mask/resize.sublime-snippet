@@ -2,5 +2,5 @@
 	<content><![CDATA[resize()$0]]></content>
 	<tabTrigger>resize</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Mask</description>
+	<description>Moo.resize() More</description>
 </snippet>

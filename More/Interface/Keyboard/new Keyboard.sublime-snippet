@@ -5,5 +5,5 @@
 })]]></content>
 	<tabTrigger>new Keyboard</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Keyboard</description>
+	<description>Moo.Keyboard([options]) More</description>
 </snippet>

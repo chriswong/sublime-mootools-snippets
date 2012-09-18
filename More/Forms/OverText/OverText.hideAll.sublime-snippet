@@ -2,5 +2,5 @@
 	<content><![CDATA[OverText.hideAll()$0]]></content>
 	<tabTrigger>OverText.hideAll</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.OverText.hideAll() More</description>
 </snippet>

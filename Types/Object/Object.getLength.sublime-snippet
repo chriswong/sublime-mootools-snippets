@@ -2,5 +2,5 @@
 	<content><![CDATA[Object.getLength(${1:obj})$0;]]></content>
 	<tabTrigger>Object.getLength</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Object.getLength(obj)</description>
+	<description>Moo.Object.getLength(obj) Core</description>
 </snippet>

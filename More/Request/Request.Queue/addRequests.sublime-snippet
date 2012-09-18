@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>addRequests</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Request.Queue</description>
+	<description>Moo.addRequests(requests) More</description>
 </snippet>

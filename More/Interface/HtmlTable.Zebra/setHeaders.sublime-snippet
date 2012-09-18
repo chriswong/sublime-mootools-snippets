@@ -2,5 +2,5 @@
 	<content><![CDATA[setHeaders(${1:headers})$0]]></content>
 	<tabTrigger>setHeaders</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More HtmlTable</description>
+	<description>Moo.setHeaders(headers) More</description>
 </snippet>

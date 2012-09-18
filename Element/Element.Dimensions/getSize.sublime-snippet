@@ -2,5 +2,5 @@
 	<content><![CDATA[getSize()$0]]></content>
 	<tabTrigger>getSize</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.getSize() Element</description>
+	<description>Moo.getSize() Core</description>
 </snippet>

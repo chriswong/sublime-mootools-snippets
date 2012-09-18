@@ -2,5 +2,5 @@
 	<content><![CDATA[mix(${1:color1[, ...]})$0]]></content>
 	<tabTrigger>mix</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Color</description>
+	<description>Moo.mix(color1[, ...]) More</description>
 </snippet>

@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>Locale.define</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Locale</description>
+	<description>Moo.Locale.define(name, set, data) More</description>
 </snippet>

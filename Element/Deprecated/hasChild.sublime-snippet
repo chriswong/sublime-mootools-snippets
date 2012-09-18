@@ -2,5 +2,5 @@
 	<content><![CDATA[hasChild('${1:el}')${0://Mootools 1.2}]]></content>
 	<tabTrigger>hasChild</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.hasChild(el) Element</description>
+	<description>Moo.hasChild(el) Core</description>
 </snippet>

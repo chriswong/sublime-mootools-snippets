@@ -2,5 +2,5 @@
 	<content><![CDATA[sortByElements(${1:elements})$0]]></content>
 	<tabTrigger>sortByElements</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx</description>
+	<description>Moo.sortByElements(els) More</description>
 </snippet>

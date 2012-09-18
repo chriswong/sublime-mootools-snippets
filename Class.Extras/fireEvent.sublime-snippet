@@ -2,5 +2,5 @@
 	<content><![CDATA[fireEvent('${1:type}', ${2:args[, delay]})$0]]></content>
 	<tabTrigger>fireEvent</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.fireEvent(type, args[, delay]) Events</description>
+	<description>Moo.fireEvent(type, args[, delay]) Core</description>
 </snippet>

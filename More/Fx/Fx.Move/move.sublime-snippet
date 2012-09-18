@@ -2,5 +2,5 @@
 	<content><![CDATA[move(${1:options})$0]]></content>
 	<tabTrigger>move</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx</description>
+	<description>Moo.move(options) More</description>
 </snippet>

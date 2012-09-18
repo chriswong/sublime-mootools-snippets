@@ -2,5 +2,5 @@
 	<content><![CDATA[unshift(${1:el})$0]]></content>
 	<tabTrigger>unshift</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.unshift(el) Elements</description>
+	<description>Moo.unshift(el) Core</description>
 </snippet>

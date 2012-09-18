@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.version$0]]></content>
 	<tabTrigger>Browser.version</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.version</description>
+	<description>Moo.Browser.version Core</description>
 </snippet>

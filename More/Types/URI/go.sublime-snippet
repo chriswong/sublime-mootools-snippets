@@ -2,5 +2,5 @@
 	<content><![CDATA[go()$0]]></content>
 	<tabTrigger>go</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More URI</description>
+	<description>Moo.go() More</description>
 </snippet>

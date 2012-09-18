@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Sortables(${1:list[, options]})$0]]></content>
-	<tabTrigger>Sortables</tabTrigger>
+	<tabTrigger>new Sortables</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Sortables</description>
+	<description>Moo.Sortables(list[, options]) More</description>
 </snippet>

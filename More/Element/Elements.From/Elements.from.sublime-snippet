@@ -2,5 +2,5 @@
 	<content><![CDATA[Elements.from(${1:str}, ${2:excludeScripts})$0]]></content>
 	<tabTrigger>Elements.from</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.Element.from(str, excludeScripts) More</description>
 </snippet>

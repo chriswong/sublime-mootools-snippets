@@ -2,5 +2,5 @@
 	<content><![CDATA[destroy()$0]]></content>
 	<tabTrigger>destroy</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More IframeShim</description>
+	<description>Moo.destroy() More</description>
 </snippet>

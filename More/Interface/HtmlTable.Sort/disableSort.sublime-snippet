@@ -2,5 +2,5 @@
 	<content><![CDATA[disableSort()$0]]></content>
 	<tabTrigger>disableSort</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More HtmlTable</description>
+	<description>Moo.disableSort() More</description>
 </snippet>

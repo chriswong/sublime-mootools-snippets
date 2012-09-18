@@ -2,5 +2,5 @@
 	<content><![CDATA[wait(${1:duration})$0]]></content>
 	<tabTrigger>wait</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Class</description>
+	<description>Moo.wait(duration) More</description>
 </snippet>

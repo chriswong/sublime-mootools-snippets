@@ -2,5 +2,5 @@
 	<content><![CDATA[OverText.showAll()$0]]></content>
 	<tabTrigger>OverText.showAll</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.OverText.showAll() More</description>
 </snippet>

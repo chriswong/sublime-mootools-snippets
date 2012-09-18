@@ -2,5 +2,5 @@
 	<content><![CDATA[isSelected(${1:trElement})$0]]></content>
 	<tabTrigger>isSelected</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More HtmlTable</description>
+	<description>Moo.isSelected(trElement) More</description>
 </snippet>

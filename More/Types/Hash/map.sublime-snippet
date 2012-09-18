@@ -4,5 +4,5 @@
 })$0]]></content>
 	<tabTrigger>map</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.map(fn[, bind]) More</description>
 </snippet>

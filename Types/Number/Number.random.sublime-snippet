@@ -2,5 +2,5 @@
 	<content><![CDATA[Number.random(${1:min}, ${2:max})$0]]></content>
 	<tabTrigger>Number.random</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Number.random(min, max)</description>
+	<description>Moo.Number.random(min, max) Core</description>
 </snippet>

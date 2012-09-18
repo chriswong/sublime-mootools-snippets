@@ -2,5 +2,5 @@
 	<content><![CDATA[getOrdinal()$0]]></content>
 	<tabTrigger>getOrdinal</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.getOrdinal() More</description>
 </snippet>

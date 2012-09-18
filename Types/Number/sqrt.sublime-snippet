@@ -2,5 +2,5 @@
 	<content><![CDATA[sqrt()$0]]></content>
 	<tabTrigger>sqrt</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.sqrt() Number</description>
+	<description>Moo.sqrt() Core</description>
 </snippet>

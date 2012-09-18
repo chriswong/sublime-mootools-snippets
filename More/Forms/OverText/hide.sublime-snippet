@@ -2,5 +2,5 @@
 	<content><![CDATA[hide()$0]]></content>
 	<tabTrigger>hide</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.hide() More</description>
 </snippet>

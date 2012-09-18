@@ -2,5 +2,5 @@
 	<content><![CDATA[empty()${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>empty</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.empty() More</description>
 </snippet>

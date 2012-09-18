@@ -2,5 +2,5 @@
 	<content><![CDATA[OverText(${1:input[, options]})$0]]></content>
 	<tabTrigger>OverText</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.OverText(input[, options]) More</description>
 </snippet>

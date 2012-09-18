@@ -2,5 +2,5 @@
 	<content><![CDATA[enforceField(${1:field})$0]]></content>
 	<tabTrigger>enforceField</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.enforceField(field) More</description>
 </snippet>

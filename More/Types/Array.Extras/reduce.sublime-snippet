@@ -4,5 +4,5 @@
 }${2:, value})$0]]></content>
 	<tabTrigger>reduce</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Array</description>
+	<description>Moo.reduce(fn[, value]) More</description>
 </snippet>

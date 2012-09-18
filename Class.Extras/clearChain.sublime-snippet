@@ -2,5 +2,5 @@
 	<content><![CDATA[clearChain()$0]]></content>
 	<tabTrigger>clearChain</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.clearChain() Chain</description>
+	<description>Moo.clearChain() Core</description>
 </snippet>

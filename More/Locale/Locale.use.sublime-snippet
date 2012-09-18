@@ -2,5 +2,5 @@
 	<content><![CDATA[Locale.use(${1:language})$0]]></content>
 	<tabTrigger>Locale.use</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Locale</description>
+	<description>Moo.Locale.use(language) More</description>
 </snippet>

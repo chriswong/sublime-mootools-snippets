@@ -2,5 +2,5 @@
 	<content><![CDATA[removeItems(${1:item1[, ...]})$0]]></content>
 	<tabTrigger>removeItems</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Sortables</description>
+	<description>Moo.removeItems(item1[, ...]) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[Slick.match(${1:node}, '${2:selector}')$0;]]></content>
 	<tabTrigger>Slick.match</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Slick.match(node, selector)</description>
+	<description>Moo.Slick.match(node, selector) Core</description>
 </snippet>

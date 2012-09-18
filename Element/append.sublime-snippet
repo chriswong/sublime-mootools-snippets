@@ -2,5 +2,5 @@
 	<content><![CDATA[append(${1:collection})$0]]></content>
 	<tabTrigger>append</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.append(collection) Elements</description>
+	<description>Moo.append(collection) Core</description>
 </snippet>

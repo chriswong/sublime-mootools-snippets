@@ -2,5 +2,5 @@
 	<content><![CDATA[concat(${1:el})$0]]></content>
 	<tabTrigger>concat</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.concat(el) Elements</description>
+	<description>Moo.concat(el) Core</description>
 </snippet>

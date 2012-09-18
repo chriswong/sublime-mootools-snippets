@@ -2,5 +2,5 @@
 	<content><![CDATA[Fx(${1:options})$0]]></content>
 	<tabTrigger>Fx</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Fx(options)</description>
+	<description>Moo.Fx(options) Core</description>
 </snippet>

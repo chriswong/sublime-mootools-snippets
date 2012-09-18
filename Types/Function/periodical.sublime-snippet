@@ -2,5 +2,5 @@
 	<content><![CDATA[periodical(${1:period[, bind[, args]]})$0]]></content>
 	<tabTrigger>periodical</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.periodical(period[, bind[, args]]) Function</description>
+	<description>Moo.periodical(period[, bind[, args]]) Core</description>
 </snippet>

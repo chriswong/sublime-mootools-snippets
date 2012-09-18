@@ -2,5 +2,5 @@
 	<content><![CDATA[log()$0]]></content>
 	<tabTrigger>log</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.log() Number</description>
+	<description>Moo.log() Core</description>
 </snippet>

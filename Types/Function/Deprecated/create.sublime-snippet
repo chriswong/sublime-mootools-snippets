@@ -2,5 +2,5 @@
 	<content><![CDATA[create(${1:options})$0]]></content>
 	<tabTrigger>create</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Function 1.2 </description>
+	<description>Moo.Function 1.2</description>
 </snippet>

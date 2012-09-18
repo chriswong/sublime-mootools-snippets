@@ -2,5 +2,5 @@
 	<content><![CDATA[start(${1:x}, ${2:y})$0]]></content>
 	<tabTrigger>start</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx.Scroll</description>
+	<description>Moo.start(x, y) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[removeProperty('${1:property}')$0]]></content>
 	<tabTrigger>removeProperty</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.removeProperty(prop) Element</description>
+	<description>Moo.removeProperty(prop) Core</description>
 </snippet>

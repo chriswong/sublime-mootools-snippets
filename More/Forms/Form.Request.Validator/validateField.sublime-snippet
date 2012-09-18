@@ -2,5 +2,5 @@
 	<content><![CDATA[validateField(${1:field[, force]})$0]]></content>
 	<tabTrigger>validateField</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.validateField(field, force) More</description>
 </snippet>

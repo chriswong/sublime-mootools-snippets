@@ -2,5 +2,5 @@
 	<content><![CDATA[Hash(${1:obj})${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>Hash</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.Hash(obj) More</description>
 </snippet>

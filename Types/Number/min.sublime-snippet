@@ -2,5 +2,5 @@
 	<content><![CDATA[min(${1:number})$0]]></content>
 	<tabTrigger>min</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.min(number) Number</description>
+	<description>Moo.min(number) Core</description>
 </snippet>

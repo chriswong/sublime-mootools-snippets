@@ -2,5 +2,5 @@
 	<content><![CDATA[mask(${1:[options]})$0]]></content>
 	<tabTrigger>mask</tabTrigger>
 	<scope>source.js</scope>
-	<description>Mootools More Element</description>
+	<description>Moo.mask([options]) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[rightClick$0]]></content>
 	<tabTrigger>rightClick</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.rightClick() Event</description>
+	<description>Moo.rightClick() Core</description>
 </snippet>

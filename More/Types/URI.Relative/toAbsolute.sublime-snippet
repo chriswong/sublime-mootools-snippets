@@ -2,5 +2,5 @@
 	<content><![CDATA[toAbsolute(${1:[base]})$0]]></content>
 	<tabTrigger>toAbsolute</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More URI</description>
+	<description>Moo.toAbsolute([base]) More</description>
 </snippet>

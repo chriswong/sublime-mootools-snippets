@@ -2,5 +2,5 @@
 	<content><![CDATA[disable()$0]]></content>
 	<tabTrigger>disable</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Forms</description>
+	<description>Moo.disable() More</description>
 </snippet>

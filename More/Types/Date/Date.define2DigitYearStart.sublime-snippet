@@ -2,5 +2,5 @@
 	<content><![CDATA[Date.define2DigitYearStart(${1:year})$0]]></content>
 	<tabTrigger>Date.define2DigitYearStart</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Date</description>
+	<description>Moo.Date.define2DigitYearStart(year) More</description>
 </snippet>

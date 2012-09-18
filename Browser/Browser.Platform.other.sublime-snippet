@@ -2,5 +2,5 @@
 	<content><![CDATA[Browser.Platform.other$0]]></content>
 	<tabTrigger>Browser.Platform.other</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Browser.Platform.other</description>
+	<description>Moo.Browser.Platform.other Core</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[new Scroller(${1:element[, options]})$0]]></content>
 	<tabTrigger>new Scroller</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Scroller</description>
+	<description>Moo.Scroller(el[, options]) More</description>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[toQueryString()${0://Moo.1.2 Core & 1.4 More}]]></content>
 	<tabTrigger>toQueryString</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Hash</description>
+	<description>Moo.toQueryString() More</description>
 </snippet>

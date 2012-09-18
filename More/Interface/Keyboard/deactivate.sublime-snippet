@@ -2,5 +2,5 @@
 	<content><![CDATA[deactivate()$0]]></content>
 	<tabTrigger>deactivate</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Keyboard</description>
+	<description>Moo.deactivate() More</description>
 </snippet>

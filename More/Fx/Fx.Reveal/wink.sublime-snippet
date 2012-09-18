@@ -2,5 +2,5 @@
 	<content><![CDATA[wink(${1:[duration]})$0]]></content>
 	<tabTrigger>wink</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Fx</description>
+	<description>Moo.wink([duration]) More</description>
 </snippet>

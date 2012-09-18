@@ -2,5 +2,5 @@
 	<content><![CDATA[substitute(${1:obj[, regexp]})$0]]></content>
 	<tabTrigger>substitute</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.substitute(obj[, regexp]) String</description>
+	<description>Moo.substitute(obj[, regexp]) Core</description>
 </snippet>

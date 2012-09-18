@@ -2,5 +2,5 @@
 	<content><![CDATA[Slick.parse(${1:expression})$0;]]></content>
 	<tabTrigger>Slick.parse</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.Slick.parse(expression)</description>
+	<description>Moo.Slick.parse(expression) Core</description>
 </snippet>

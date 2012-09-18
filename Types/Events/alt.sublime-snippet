@@ -2,5 +2,5 @@
 	<content><![CDATA[alt$0]]></content>
 	<tabTrigger>alt</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.alt Event</description>
+	<description>Moo.alt Core</description>
 </snippet>

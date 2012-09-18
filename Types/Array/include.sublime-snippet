@@ -2,5 +2,5 @@
 	<content><![CDATA[include(${1:item})$0]]></content>
 	<tabTrigger>include</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.include(item) Array</description>
+	<description>Moo.include(item) Core</description>
 </snippet>

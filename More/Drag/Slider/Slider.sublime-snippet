@@ -2,5 +2,5 @@
 	<content><![CDATA[Slider(${1:element}, ${2:knob[, options]})$0]]></content>
 	<tabTrigger>Slider</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Slider</description>
+	<description>Moo.Slider(el, knob[, options]) More</description>
 </snippet>

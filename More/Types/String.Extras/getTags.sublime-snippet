@@ -2,5 +2,5 @@
 	<content><![CDATA[getTags(${1:[tag, contents]})$0]]></content>
 	<tabTrigger>getTags</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More String</description>
+	<description>Moo.getTags([tag, contents]) More</description>
 </snippet>

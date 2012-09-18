@@ -2,5 +2,5 @@
 	<content><![CDATA[getElement('${1:tag}')$0]]></content>
 	<tabTrigger>getElement</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.getElement(tag) Element</description>
+	<description>Moo.getElement(tag) Core</description>
 </snippet>

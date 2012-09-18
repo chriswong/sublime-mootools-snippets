@@ -2,5 +2,5 @@
 	<content><![CDATA[getSelectedRange()$0]]></content>
 	<tabTrigger>getSelectedRange</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Element</description>
+	<description>Moo.getSelectedRange() More</description>
 </snippet>

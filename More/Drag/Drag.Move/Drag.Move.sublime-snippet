@@ -2,5 +2,5 @@
 	<content><![CDATA[Drag.Move(${1:el[, options]})$0]]></content>
 	<tabTrigger>Drag.Move</tabTrigger>
 	<scope>source.js</scope>
-	<description>Moo.More Drag</description>
+	<description>Moo.Drag.Move(el[, options]) More</description>
 </snippet>
